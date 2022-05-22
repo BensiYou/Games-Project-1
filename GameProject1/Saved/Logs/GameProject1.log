@@ -1667,3 +1667,501 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.22-02.38.56:128][659]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2022.05.22-02.38.56:128][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.05.22-02.38.58:554][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.22-02.41.13:034][315]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.22-02.41.13:040][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.22-02.41.13:040][315]PIE: New page: PIE session: level1 (22 May 2022, 9:41:13 pm)
+[2022.05.22-02.41.13:040][315]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-02.41.13:042][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001131s)
+[2022.05.22-02.41.13:043][315]LogAIModule: Creating AISystem for world level1
+[2022.05.22-02.41.13:043][315]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2022.05.22-02.41.13:043][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.002430s)
+[2022.05.22-02.41.13:058][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.22-02.41.13:060][315]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.05.22-02.41.13:060][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-02.41.13:060][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-02.41.13:060][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-02.41.13:060][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-02.41.13:060][315]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-02.41.13:060][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-02.41.13:060][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-02.41.13:060][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-02.41.13:061][315]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-02.41.13:061][315]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-02.41.13:063][315]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-02.41.13:063][315]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-02.41.13:088][315]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.22-02.41.13:088][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-02.41.13:088][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-02.41.13:088][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-02.41.13:089][315]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-02.41.13:089][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-02.41.13:089][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-02.41.13:101][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-02.41.13:101][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-02.41.13:101][315]LogInit: FAudioDevice initialized.
+[2022.05.22-02.41.13:101][315]LogAudio: Display: Audio Device (ID: 17) registered with world 'level1'.
+[2022.05.22-02.41.13:105][315]LogLoad: Game class is 'GameModeBase'
+[2022.05.22-02.41.13:109][315]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2022.05.22-12.11.13
+[2022.05.22-02.41.13:109][315]LogWorld: Bringing up level for play took: 0.002809
+[2022.05.22-02.41.13:109][315]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.05.22-02.41.13:113][315]PIE: Server logged in
+[2022.05.22-02.41.13:114][315]PIE: Play in editor total start time 0.075 seconds.
+[2022.05.22-02.42.00:355][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-02.42.00:355][976]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-02.42.00:355][976]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-02.42.00:356][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-02.42.00:360][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.22-02.42.00:385][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-02.42.00:397][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-02.42.00:397][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-02.42.00:398][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-02.42.00:427][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.05.22-02.42.00:448][977]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.22-02.42.07:839][839]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/PlayableCharacter2.PlayableCharacter2
+[2022.05.22-02.42.33:815][786]BlueprintLog: New page: Compile PlayableCharacter2
+[2022.05.22-02.42.33:854][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.05.22-02.43.12:313][208]BlueprintLog: New page: Compile PlayableCharacter2
+[2022.05.22-02.43.12:354][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.22-02.43.13:039][278]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter25F8C235846A4F3A18CD1408014E71972.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/PlayableCharacter2.uasset'
+[2022.05.22-02.43.13:050][278]AssetCheck: New page: Asset Save: PlayableCharacter2
+[2022.05.22-02.43.13:050][278]LogContentValidation: Display: Validating Blueprint /Game/GameFiles/Player_chracter_2/PlayableCharacter2.PlayableCharacter2
+[2022.05.22-02.43.16:607][689]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.22-02.43.16:613][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.22-02.43.16:613][689]PIE: New page: PIE session: level1 (22 May 2022, 9:43:16 pm)
+[2022.05.22-02.43.16:614][689]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-02.43.16:615][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001042s)
+[2022.05.22-02.43.16:615][689]LogAIModule: Creating AISystem for world level1
+[2022.05.22-02.43.16:615][689]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2022.05.22-02.43.16:615][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.001876s)
+[2022.05.22-02.43.16:631][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.05.22-02.43.16:632][689]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-02.43.16:633][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-02.43.16:633][689]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-02.43.16:633][689]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-02.43.16:637][689]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-02.43.16:637][689]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-02.43.16:662][689]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.22-02.43.16:663][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-02.43.16:663][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-02.43.16:663][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-02.43.16:663][689]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-02.43.16:663][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-02.43.16:663][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-02.43.16:674][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-02.43.16:674][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-02.43.16:674][689]LogInit: FAudioDevice initialized.
+[2022.05.22-02.43.16:674][689]LogAudio: Display: Audio Device (ID: 18) registered with world 'level1'.
+[2022.05.22-02.43.16:684][689]LogLoad: Game class is 'GameModeBase'
+[2022.05.22-02.43.16:686][689]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2022.05.22-12.13.16
+[2022.05.22-02.43.16:687][689]LogWorld: Bringing up level for play took: 0.002536
+[2022.05.22-02.43.16:687][689]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.05.22-02.43.16:690][689]PIE: Server logged in
+[2022.05.22-02.43.16:691][689]PIE: Play in editor total start time 0.08 seconds.
+[2022.05.22-02.43.38:415][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-02.43.38:415][292]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-02.43.38:415][292]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-02.43.38:415][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-02.43.38:422][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.22-02.43.38:447][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-02.43.38:464][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.22-02.43.38:464][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-02.43.38:465][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-02.43.38:488][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-02.43.38:490][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.22-02.43.38:513][293]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.05.22-02.44.08:276][750]BlueprintLog: New page: Compile PlayableCharacter2
+[2022.05.22-02.44.08:313][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.05.22-02.44.08:817][805]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2D28311664533CF5CC4C110B17B1D4525.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/PlayableCharacter2.uasset'
+[2022.05.22-02.44.08:828][805]AssetCheck: New page: Asset Save: PlayableCharacter2
+[2022.05.22-02.44.08:828][805]LogContentValidation: Display: Validating Blueprint /Game/GameFiles/Player_chracter_2/PlayableCharacter2.PlayableCharacter2
+[2022.05.22-02.44.11:233][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.22-02.44.11:239][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.22-02.44.11:239][ 75]PIE: New page: PIE session: level1 (22 May 2022, 9:44:11 pm)
+[2022.05.22-02.44.11:239][ 75]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-02.44.11:241][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001151s)
+[2022.05.22-02.44.11:241][ 75]LogAIModule: Creating AISystem for world level1
+[2022.05.22-02.44.11:241][ 75]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2022.05.22-02.44.11:241][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.002139s)
+[2022.05.22-02.44.11:259][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.05.22-02.44.11:259][ 75]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.05.22-02.44.11:259][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-02.44.11:259][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-02.44.11:259][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-02.44.11:259][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-02.44.11:259][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-02.44.11:259][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-02.44.11:259][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-02.44.11:259][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-02.44.11:260][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-02.44.11:260][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-02.44.11:262][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-02.44.11:262][ 75]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-02.44.11:286][ 75]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.22-02.44.11:286][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-02.44.11:286][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-02.44.11:286][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-02.44.11:286][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-02.44.11:286][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-02.44.11:286][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-02.44.11:298][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-02.44.11:298][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-02.44.11:298][ 75]LogInit: FAudioDevice initialized.
+[2022.05.22-02.44.11:298][ 75]LogAudio: Display: Audio Device (ID: 19) registered with world 'level1'.
+[2022.05.22-02.44.11:304][ 75]LogLoad: Game class is 'GameModeBase'
+[2022.05.22-02.44.11:307][ 75]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2022.05.22-12.14.11
+[2022.05.22-02.44.11:308][ 75]LogWorld: Bringing up level for play took: 0.002539
+[2022.05.22-02.44.11:308][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.05.22-02.44.11:311][ 75]PIE: Server logged in
+[2022.05.22-02.44.11:312][ 75]PIE: Play in editor total start time 0.074 seconds.
+[2022.05.22-02.44.27:895][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-02.44.27:895][ 59]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-02.44.27:895][ 59]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-02.44.27:895][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-02.44.27:900][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.22-02.44.27:923][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-02.44.27:938][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.22-02.44.27:938][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-02.44.27:938][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-02.44.27:974][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-02.44.27:977][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.22-02.44.28:001][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.05.22-02.44.31:660][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.22-03.08.05:887][656]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/GameFiles/aterials-Maps/Level2Map.Level2Map
+[2022.05.22-03.11.51:682][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.05.22-03.11.51:684][120]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.024
+[2022.05.22-03.11.51:684][120]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/aterials-Maps/Level2Map] ([1] browsable assets)...
+[2022.05.22-03.11.51:684][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/aterials-Maps/Level2Map]
+[2022.05.22-03.11.52:732][120]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Level2Map_Auto1D7553D4E472D17EF252434AE0DF7A893.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/aterials-Maps/Level2Map_Auto1.uasset'
+[2022.05.22-03.11.52:734][120]LogFileHelpers: Auto-saving content packages took 1.049
+[2022.05.22-03.25.24:538][928]Cmd: TRANSACTION UNDO
+[2022.05.22-03.25.24:538][928]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.27.26:495][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.22-03.27.26:496][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.021
+[2022.05.22-03.27.26:497][356]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/aterials-Maps/Level2Map] ([1] browsable assets)...
+[2022.05.22-03.27.26:497][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/aterials-Maps/Level2Map]
+[2022.05.22-03.27.27:534][356]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Level2Map_Auto22757824E4D6E9DD6036B22AF545B161A.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/aterials-Maps/Level2Map_Auto2.uasset'
+[2022.05.22-03.27.27:535][356]LogFileHelpers: Auto-saving content packages took 1.039
+[2022.05.22-03.28.17:827][398]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-03.28.17:827][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-03.30.41:540][447]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.41:540][447]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.30.41:752][453]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.41:752][453]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.30.41:889][457]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.41:889][457]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.30.42:266][485]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.42:267][485]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.30.42:445][502]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.42:445][502]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.30.42:655][523]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.42:655][523]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.30.42:828][540]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.42:828][540]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.30.43:169][576]Cmd: TRANSACTION UNDO
+[2022.05.22-03.30.43:169][576]LogEditorTransaction: Undo Tile Painting
+[2022.05.22-03.31.19:448][ 36]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Level2Map88F920F24B5946504DFC32A580DC818D.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/aterials-Maps/Level2Map.uasset'
+[2022.05.22-03.31.19:474][ 36]AssetCheck: New page: Asset Save: Level2Map
+[2022.05.22-03.31.19:474][ 36]LogContentValidation: Display: Validating PaperTileMap /Game/GameFiles/aterials-Maps/Level2Map.Level2Map
+[2022.05.22-03.31.21:072][208]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.22-03.31.21:080][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.22-03.31.21:080][208]PIE: New page: PIE session: level1 (22 May 2022, 10:31:21 pm)
+[2022.05.22-03.31.21:081][208]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-03.31.21:100][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019405s)
+[2022.05.22-03.31.21:101][208]LogAIModule: Creating AISystem for world level1
+[2022.05.22-03.31.21:102][208]LogPlayLevel: PIE: World Init took: (0.001601s)
+[2022.05.22-03.31.21:102][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.021186s)
+[2022.05.22-03.31.21:120][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.05.22-03.31.21:131][208]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.22-03.31.21:131][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.22-03.31.21:131][208]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.22-03.31.21:131][208]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.22-03.31.21:186][208]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-03.31.21:186][208]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-03.31.21:215][208]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.22-03.31.21:215][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.22-03.31.21:215][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.22-03.31.21:215][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.22-03.31.21:215][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.22-03.31.21:215][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.22-03.31.21:215][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.22-03.31.21:227][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.22-03.31.21:227][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.22-03.31.21:227][208]LogInit: FAudioDevice initialized.
+[2022.05.22-03.31.21:227][208]LogAudio: Display: Audio Device (ID: 20) registered with world 'level1'.
+[2022.05.22-03.31.21:234][208]LogLoad: Game class is 'GameModeBase'
+[2022.05.22-03.31.21:237][208]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 0) at 2022.05.22-13.01.21
+[2022.05.22-03.31.21:238][208]LogWorld: Bringing up level for play took: 0.003399
+[2022.05.22-03.31.21:238][208]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.05.22-03.31.21:242][208]PIE: Server logged in
+[2022.05.22-03.31.21:242][208]PIE: Play in editor total start time 0.165 seconds.
+[2022.05.22-03.31.34:643][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-03.31.34:643][808]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.22-03.31.34:643][808]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-03.31.34:644][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-03.31.34:650][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.22-03.31.34:676][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-03.31.34:688][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.22-03.31.34:688][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-03.31.34:689][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.22-03.31.34:733][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.22-03.31.34:735][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.22-03.31.34:759][809]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.05.22-03.37.41:432][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.05.22-03.37.41:439][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.023
+[2022.05.22-03.37.41:440][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/aterials-Maps/Level2Map] ([1] browsable assets)...
+[2022.05.22-03.37.41:440][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/aterials-Maps/Level2Map]
+[2022.05.22-03.37.42:498][563]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Level2Map_Auto3AE3236494097293DAB7CFBBBBA961CC6.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/aterials-Maps/Level2Map_Auto3.uasset'
+[2022.05.22-03.37.42:499][563]LogFileHelpers: Auto-saving content packages took 1.060
+[2022.05.22-04.06.27:015][990]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\thedm\Desktop\fire.png)
+[2022.05.22-04.06.27:029][990]LogTexture: Display: Building textures: fire (BGRA8, 667X277)
+[2022.05.22-04.06.36:284][845]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameFiles/aterials-Maps/fire.fire
+[2022.05.22-04.06.37:303][934]LogSlate: Window 'fire' being destroyed
+[2022.05.22-04.06.37:309][934]LogSlate: Window 'fire' being destroyed
+[2022.05.22-04.06.37:317][934]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-04.06.37:317][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-04.06.46:952][807]LogSlate: Window 'Extract sprites' being destroyed
+[2022.05.22-04.06.51:164][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.22-04.06.52:255][241]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.22-04.06.52:322][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.22-04.06.59:200][857]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.05.22-04.06.59:201][857]LogContentBrowser: Deferred new asset file creation: fire1
+[2022.05.22-04.06.59:215][857]LogContentBrowser: Creating deferred item: fire1
+[2022.05.22-04.07.10:880][221]LogContentBrowser: Attempting asset rename: fire1 -> fireFB
+[2022.05.22-04.07.10:881][221]LogContentBrowser: End creating deferred item fire1
+[2022.05.22-04.07.12:085][342]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/GameFiles/aterials-Maps/fireFB.fireFB
+[2022.05.22-04.07.34:432][672]LogSlate: Window 'fireFB' being destroyed
+[2022.05.22-04.07.34:439][672]LogSlate: Window 'fireFB' being destroyed
+[2022.05.22-04.07.34:440][672]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-04.07.34:440][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-04.08.03:629][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.22-04.08.03:637][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.026
+[2022.05.22-04.08.03:637][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameFiles/aterials-Maps/fire] ([1] browsable assets)...
+[2022.05.22-04.08.03:641][262]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GameFiles/aterials-Maps/fire.fire]
+[2022.05.22-04.08.03:641][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/aterials-Maps/fire]
+[2022.05.22-04.08.03:645][262]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fire_Auto4C3845BC44035E516BB80449D9F745C16.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/aterials-Maps/fire_Auto4.uasset'
+[2022.05.22-04.08.03:646][262]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.05.22-04.12.31:433][120]LogEditorFactories: Performing atomic reimport of [C:/Users/thedm/Desktop/fire.png]
+[2022.05.22-04.12.31:437][120]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/thedm/Desktop/fire.png)
+[2022.05.22-04.12.31:452][120]LogTexture: Display: Building textures: fire (BGRA8, 667X277)
+[2022.05.22-04.12.31:467][120]LogEditorFactories: -- imported successfully
+[2022.05.22-04.12.34:749][297]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameFiles/aterials-Maps/fire.fire
+[2022.05.22-04.12.36:089][369]LogSlate: Window 'fire' being destroyed
+[2022.05.22-04.12.36:095][369]LogSlate: Window 'fire' being destroyed
+[2022.05.22-04.12.44:703][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.05.22-04.12.45:696][864]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.22-04.12.45:823][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.22-04.12.46:584][905]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameFiles/aterials-Maps/fire.fire
+[2022.05.22-04.12.47:469][951]LogSlate: Window 'fire' being destroyed
+[2022.05.22-04.12.47:475][951]LogSlate: Window 'fire' being destroyed
+[2022.05.22-04.12.57:242][516]LogSlate: Window 'Extract sprites' being destroyed
+[2022.05.22-04.12.59:935][668]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.05.22-04.12.59:935][668]LogContentBrowser: Deferred new asset file creation: fire1
+[2022.05.22-04.12.59:951][668]LogContentBrowser: Creating deferred item: fire1
+[2022.05.22-04.13.03:370][874]LogContentBrowser: Attempting asset rename: fire1 -> firefb
+[2022.05.22-04.13.03:371][874]LogContentBrowser: End creating deferred item fire1
+[2022.05.22-04.13.04:935][965]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/GameFiles/aterials-Maps/firefb.firefb
+[2022.05.22-04.13.41:351][138]LogSlate: Window 'firefb' being destroyed
+[2022.05.22-04.13.41:357][138]LogSlate: Window 'firefb' being destroyed
+[2022.05.22-04.13.41:357][138]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-04.13.41:358][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-04.14.08:465][714]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.22-04.14.08:473][714]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.22-04.14.14:179][ 57]LogContentBrowser: Attempting asset rename: NewFolder -> FireBall
+[2022.05.22-04.14.14:181][ 57]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.22-04.14.38:261][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.22-04.14.44:714][457]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.22-04.14.44:734][457]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/GameFiles/aterials-Maps/fire.fire
+	Asset Name: /Game/GameFiles/aterials-Maps/fire_Sprite_0.fire_Sprite_0
+	Asset Name: /Game/GameFiles/aterials-Maps/fire_Sprite_1.fire_Sprite_1
+	Asset Name: /Game/GameFiles/aterials-Maps/fire_Sprite_2.fire_Sprite_2
+	Asset Name: /Game/GameFiles/aterials-Maps/fire_Sprite_3.fire_Sprite_3
+	Asset Name: /Game/GameFiles/aterials-Maps/fire_Sprite_4.fire_Sprite_4
+	Asset Name: /Game/GameFiles/aterials-Maps/firefb.firefb
+[2022.05.22-04.14.50:491][457]LogSlate: Window 'Message' being destroyed
+[2022.05.22-04.14.50:494][457]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/GameFiles/aterials-Maps/fire.fire is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/GameFiles/aterials-Maps/fire.fire:
+   PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_0.fire_Sprite_0 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_4.fire_Sprite_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_3.fire_Sprite_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_2.fire_Sprite_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_1.fire_Sprite_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/aterials-Maps/fire_Sprite_4.fire_Sprite_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/aterials-Maps/fire_Sprite_3.fire_Sprite_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/aterials-Maps/fire_Sprite_2.fire_Sprite_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/aterials-Maps/fire_Sprite_1.fire_Sprite_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/GameFiles/aterials-Maps/fire_Sprite_0.fire_Sprite_0 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.05.22-04.14.50:494][457]LogObjectTools: Warning: ForceDeleteObject failed to delete fire, this package is now potentially corrupt
+[2022.05.22-04.14.50:599][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.22-04.14.50:603][457]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.22-04.14.51:301][457]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.698 s
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: 
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3191]
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: 
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: 					from the file system manually: 
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: /Game/GameFiles/aterials-Maps/fire
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: Stack: 
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc332a94a8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc32b4a9b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc322a40d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc3257fbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc325770b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50ef859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50f1071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50d546be UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50dd7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50dc0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50db3632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc8562bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc85619197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc8562e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc85614310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffcaee0e7e8 USER32.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffcaee0e229 USER32.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc8562f7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50de2233 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50d7d485 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc3260c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc32b3e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc32b3d707 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffbcec76f4c UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffbcec7732a UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffbcec67a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc3a22dc15 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc3a341d9e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc3a323a16 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50d90088 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50e7ede1 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50e85600 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50e5b807 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50ef859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50f1071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50e86d75 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50d546be UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50dd7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:301][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50dc0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffc50db3632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffc8562bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffc85619197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffc8562e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffc85614310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffcaee0e7e8 USER32.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffcaee0e229 USER32.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffc8562f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ff6fba08848 UE4Editor.exe!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ff6fba2117c UE4Editor.exe!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ff6fba2125a UE4Editor.exe!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ff6fba352bd UE4Editor.exe!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ff6fba37fea UE4Editor.exe!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffcaf417034 KERNEL32.DLL!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: [Callstack] 0x00007ffcb0da2651 ntdll.dll!UnknownFunction []
+[2022.05.22-04.14.51:302][457]LogOutputDevice: Error: 
+[2022.05.22-04.14.51:310][457]LogStats:                SubmitErrorReport -  0.000 s
+[2022.05.22-04.15.02:710][457]LogStats:                    SendNewReport - 11.399 s
+[2022.05.22-04.15.02:710][457]LogStats:             FDebug::EnsureFailed - 12.106 s
+[2022.05.22-04.15.02:745][457]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.22-04.15.02:832][457]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.22-04.15.02:832][457]LogAudioMixer: Display: 1: FrontRight
+[2022.05.22-04.15.11:657][969]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/GameFiles/Enemies/FireBall/firefb.firefb
+[2022.05.22-04.15.13:146][ 51]LogSlate: Window 'firefb' being destroyed
+[2022.05.22-04.15.13:151][ 51]LogSlate: Window 'firefb' being destroyed
+[2022.05.22-04.15.13:152][ 51]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-04.15.13:152][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-04.15.16:690][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.05.22-04.15.18:024][259]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.22-04.15.18:071][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.05.22-04.15.21:787][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.05.22-04.15.22:555][474]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.22-04.15.22:605][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.05.22-04.15.29:171][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.05.22-04.15.29:972][857]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.22-04.15.30:021][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.05.22-04.15.39:420][227]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\thedm\Desktop\fire.png)
+[2022.05.22-04.15.39:425][227]LogTexture: Display: Building textures: fire (BGRA8, 667X277)
+[2022.05.22-04.15.49:534][814]LogSlate: Window 'Extract sprites' being destroyed
+[2022.05.22-04.15.54:535][109]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.05.22-04.15.54:536][109]LogContentBrowser: Deferred new asset file creation: fire1
+[2022.05.22-04.15.54:547][109]LogContentBrowser: Creating deferred item: fire1
+[2022.05.22-04.16.00:701][479]LogContentBrowser: Attempting asset rename: fire1 -> fireBallFB
+[2022.05.22-04.16.00:702][479]LogContentBrowser: End creating deferred item fire1
+[2022.05.22-04.16.02:501][584]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/GameFiles/Enemies/FireBall/fireBallFB.fireBallFB
+[2022.05.22-04.16.10:842][ 72]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fireBallFB3D645400472B5C1D43A70A87D67DC008.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/fireBallFB.uasset'
+[2022.05.22-04.16.10:856][ 72]AssetCheck: New page: Asset Save: fireBallFB
+[2022.05.22-04.16.10:856][ 72]LogContentValidation: Display: Validating PaperFlipbook /Game/GameFiles/Enemies/FireBall/fireBallFB.fireBallFB
+[2022.05.22-04.16.11:514][112]LogSlate: Window 'fireBallFB' being destroyed
+[2022.05.22-04.16.11:517][112]LogSlate: Window 'fireBallFB' being destroyed
+[2022.05.22-04.16.11:520][112]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.22-04.16.11:520][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.22-04.16.13:932][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.22-04.16.14:981][251]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Level2MapB3FD263B4A69997DDE0B7785B1EBFB82.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/aterials-Maps/Level2Map.uasset'
+[2022.05.22-04.16.14:994][251]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fireE004CEB54358F20DA29433A884BAAF81.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/fire.uasset'
+[2022.05.22-04.16.15:003][251]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fire_Sprite_0EF84D50B4D9104750DFEE0881934F82E.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/fire_Sprite_0.uasset'
+[2022.05.22-04.16.15:013][251]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fire_Sprite_15D21FE3F46B09D799372E4BF022965B5.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/fire_Sprite_1.uasset'
+[2022.05.22-04.16.15:022][251]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fire_Sprite_29B12B5B141950E6852FE3FA39A8F744A.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/fire_Sprite_2.uasset'
+[2022.05.22-04.16.15:031][251]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fire_Sprite_39743DA1E41161F41058E1FA632F2EB77.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/fire_Sprite_3.uasset'
+[2022.05.22-04.16.15:039][251]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/fire_Sprite_4857F3E704CD01A3F4F44CAB16FDE92C5.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/fire_Sprite_4.uasset'
+[2022.05.22-04.16.15:059][251]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.22-04.16.15:059][251]LogContentValidation: Display: Validating PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_0.fire_Sprite_0
+[2022.05.22-04.16.15:059][251]LogContentValidation: Display: Validating PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_4.fire_Sprite_4
+[2022.05.22-04.16.15:059][251]LogContentValidation: Display: Validating PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_3.fire_Sprite_3
+[2022.05.22-04.16.15:059][251]LogContentValidation: Display: Validating PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_2.fire_Sprite_2
+[2022.05.22-04.16.15:059][251]LogContentValidation: Display: Validating PaperSprite /Game/GameFiles/Enemies/FireBall/fire_Sprite_1.fire_Sprite_1
+[2022.05.22-04.16.15:059][251]LogContentValidation: Display: Validating PaperTileMap /Game/GameFiles/aterials-Maps/Level2Map.Level2Map
+[2022.05.22-04.16.15:059][251]LogContentValidation: Display: Validating Texture2D /Game/GameFiles/Enemies/FireBall/fire.fire
+[2022.05.22-04.16.53:145][681]LogEditorFactories: Performing atomic reimport of [C:/Users/thedm/Desktop/office.png]
+[2022.05.22-04.16.53:146][681]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/thedm/Desktop/office.png)
+[2022.05.22-04.16.53:160][681]LogTexture: Display: Building textures: office (BGRA8, 640X320)
+[2022.05.22-04.16.53:175][681]LogEditorFactories: -- imported successfully
+[2022.05.22-04.16.59:581][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.05.22-04.16.59:607][ 41]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/office29D892BF4DB30AA9A748228E752F0B28.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/aterials-Maps/office.uasset'
+[2022.05.22-04.16.59:618][ 41]AssetCheck: New page: Asset Save: office
+[2022.05.22-04.16.59:618][ 41]LogContentValidation: Display: Validating Texture2D /Game/GameFiles/aterials-Maps/office.office
