@@ -11539,3 +11539,178 @@ Make sure 'PlayableCharacter2_C' has been compiled for  Set Attackable
 [2022.05.25-01.44.28:417][480]LogContentValidation: Display: Validating World /Game/GameFiles/Levels/MainMenu.MainMenu
 [2022.05.25-01.44.29:428][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
 [2022.05.25-01.44.31:953][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.05.25-02.00.43:260][826]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-02.00.43:266][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-02.00.43:266][826]PIE: New page: PIE session: MainMenu (25 May 2022, 9:00:43 pm)
+[2022.05.25-02.00.43:266][826]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_MainMenu
+[2022.05.25-02.00.43:267][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001001s)
+[2022.05.25-02.00.43:268][826]LogAIModule: Creating AISystem for world MainMenu
+[2022.05.25-02.00.43:268][826]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2022.05.25-02.00.43:268][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/MainMenu.MainMenu to /Game/GameFiles/Levels/UEDPIE_0_MainMenu.MainMenu (0.002079s)
+[2022.05.25-02.00.43:290][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.25-02.00.43:292][826]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.05.25-02.00.43:292][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-02.00.43:292][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-02.00.43:292][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-02.00.43:292][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-02.00.43:292][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-02.00.43:292][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-02.00.43:292][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-02.00.43:292][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-02.00.43:293][826]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.25-02.00.43:293][826]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-02.00.43:295][826]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-02.00.43:295][826]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-02.00.43:321][826]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.25-02.00.43:322][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-02.00.43:322][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-02.00.43:322][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-02.00.43:322][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-02.00.43:322][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-02.00.43:322][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-02.00.43:334][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-02.00.43:334][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-02.00.43:334][826]LogInit: FAudioDevice initialized.
+[2022.05.25-02.00.43:334][826]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainMenu'.
+[2022.05.25-02.00.43:345][826]LogLoad: Game class is 'GameModeBase'
+[2022.05.25-02.00.43:346][826]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.05.25-11.30.43
+[2022.05.25-02.00.43:346][826]LogWorld: Bringing up level for play took: 0.000424
+[2022.05.25-02.00.43:346][826]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.05.25-02.00.43:348][826]PIE: Server logged in
+[2022.05.25-02.00.43:349][826]PIE: Play in editor total start time 0.084 seconds.
+[2022.05.25-02.00.44:709][908]LogNet: Browse: /Game/GameFiles/Levels/level1
+[2022.05.25-02.00.44:709][908]LogLoad: LoadMap: /Game/GameFiles/Levels/level1
+[2022.05.25-02.00.44:709][908]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_MainMenu
+[2022.05.25-02.00.44:709][908]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-02.00.44:709][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-02.00.44:728][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-02.00.44:731][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.25-02.00.44:736][908]LogAudio: Display: Audio Device (ID: 29) registered with world 'level1'.
+[2022.05.25-02.00.44:737][908]LogAIModule: Creating AISystem for world level1
+[2022.05.25-02.00.44:737][908]LogLoad: Game class is 'GameModeBase'
+[2022.05.25-02.00.44:740][908]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.05.25-11.30.44
+[2022.05.25-02.00.44:740][908]LogWorld: Bringing up level for play took: 0.002916
+[2022.05.25-02.00.44:741][908]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.05.25-02.00.44:743][908]LogLoad: Took 0.033621 seconds to LoadMap(/Game/GameFiles/Levels/level1)
+[2022.05.25-02.00.59:360][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-02.00.59:360][782]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.25-02.00.59:360][782]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-02.00.59:361][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-02.00.59:369][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-02.00.59:372][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-02.00.59:389][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-02.00.59:389][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-02.00.59:390][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-02.00.59:424][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.25-02.00.59:440][783]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.05.25-03.31.25:485][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2022.05.25-03.31.36:476][677]LogContentBrowser: Attempting asset rename: Bandit_2 -> Exploder
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.Exploder_C' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C:ReceiveTick' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C:ReceiveBeginPlay' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C:BndEvt__Bandit_check_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C:BndEvt__Bandit_Sphere_K2Node_ComponentBoundEvent_4_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C:BndEvt__Bandit_Sphere_K2Node_ComponentBoundEvent_6_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C:BndEvt__Bandit_check_K2Node_ComponentBoundEvent_7_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.SKEL_Exploder_C:UserConstructionScript' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.Exploder_C:ReceiveBeginPlay' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:575][677]LogMetaData: Removing '/Game/GameFiles/Enemies/Exploder.Exploder_C:ReceiveTick' ref from Metadata '/Game/GameFiles/Enemies/Bandit_2.PackageMetaData'
+[2022.05.25-03.31.36:591][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameFiles/Enemies/Exploder" FILE="../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/Exploder.uasset" SILENT=true
+[2022.05.25-03.31.36:740][677]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Exploder83BAF8884A00E738FA482388AB919A98.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/Exploder.uasset'
+[2022.05.25-03.31.36:845][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.05.25-03.31.36:878][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.25-03.31.36:902][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.25-03.31.37:088][677]AssetCheck: New page: Asset Save: Exploder
+[2022.05.25-03.31.37:088][677]LogContentValidation: Display: Validating Blueprint /Game/GameFiles/Enemies/Exploder.Exploder
+[2022.05.25-03.31.39:375][813]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Enemies/Exploder.Exploder
+[2022.05.25-03.31.51:492][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameFiles/Enemies/Exploder" FILE="../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/Exploder.uasset" SILENT=true
+[2022.05.25-03.31.51:572][452]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/ExploderB999A67649B837729CE2A9992AA61E99.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/Exploder.uasset'
+[2022.05.25-03.31.51:584][452]AssetCheck: New page: Asset Save: Exploder
+[2022.05.25-03.31.51:584][452]LogContentValidation: Display: Validating Blueprint /Game/GameFiles/Enemies/Exploder.Exploder
+[2022.05.25-03.32.35:107][ 22]LogEditorTransaction: Undo Move Node
+[2022.05.25-03.32.36:138][ 67]LogEditorTransaction: Undo Create Pin Link
+[2022.05.25-03.32.45:472][619]LogEditorTransaction: Undo Create Pin Link
+[2022.05.25-03.32.59:370][425]BlueprintLog: New page: Compile Exploder
+[2022.05.25-03.32.59:431][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.05.25-03.33.09:430][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.25-03.33.11:008][ 11]LogSlate: Window 'Save Content' being destroyed
+[2022.05.25-03.33.11:033][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameFiles/Enemies/Exploder" FILE="../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/Exploder.uasset" SILENT=true
+[2022.05.25-03.33.11:119][ 11]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/Exploder213764B3475BBEF664AF0ABC4803BACF.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/Exploder.uasset'
+[2022.05.25-03.33.11:157][ 11]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameFiles/Levels/level1.level1
+[2022.05.25-03.33.11:157][ 11]Cmd: MAP LOAD FILE="../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Levels/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.25-03.33.11:158][ 11]LightingResults: New page: Lighting Build
+[2022.05.25-03.33.11:158][ 11]LoadErrors: New page: Loading map: level1.umap
+[2022.05.25-03.33.11:160][ 11]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-03.33.11:161][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-03.33.11:161][ 11]MapCheck: New page: Map Check
+[2022.05.25-03.33.11:161][ 11]LightingResults: New page: Lighting Build
+[2022.05.25-03.33.11:186][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-03.33.11:203][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.05.25-03.33.11:206][ 11]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2022.05.25-03.33.11:322][ 11]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.25-03.33.11:322][ 11]LogAIModule: Creating AISystem for world level1
+[2022.05.25-03.33.11:350][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.25-03.33.11:361][ 11]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.25-03.33.11:361][ 11]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2022.05.25-03.33.11:361][ 11]LogFileHelpers: Loading map 'level1' took 0.204
+[2022.05.25-03.33.11:374][ 11]AssetCheck: New page: Asset Save: Exploder
+[2022.05.25-03.33.11:374][ 11]LogContentValidation: Display: Validating Blueprint /Game/GameFiles/Enemies/Exploder.Exploder
+[2022.05.25-03.34.09:711][481]LogEditorViewport: Clicking Background
+[2022.05.25-03.34.14:055][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.25-03.34.14:064][738]LogSavePackage: Moving '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Saved/level1A833EE90496F6E1DF1843DB772675AD4.tmp' to '../../../../../../Users/thedm/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Levels/level1.umap'
+[2022.05.25-03.34.14:082][738]AssetCheck: New page: Asset Save: level1
+[2022.05.25-03.34.14:082][738]LogContentValidation: Display: Validating World /Game/GameFiles/Levels/level1.level1
+[2022.05.25-03.34.14:891][787]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.25-03.34.14:899][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-03.34.14:899][787]PIE: New page: PIE session: level1 (25 May 2022, 10:34:14 pm)
+[2022.05.25-03.34.14:900][787]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.25-03.34.14:902][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001576s)
+[2022.05.25-03.34.14:903][787]LogAIModule: Creating AISystem for world level1
+[2022.05.25-03.34.14:903][787]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2022.05.25-03.34.14:903][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.002508s)
+[2022.05.25-03.34.14:928][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.05.25-03.34.14:930][787]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-03.34.14:930][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-03.34.14:930][787]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.25-03.34.14:930][787]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.25-03.34.14:934][787]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.25-03.34.14:934][787]LogAudioMixer: Display: 1: FrontRight
+[2022.05.25-03.34.14:962][787]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.05.25-03.34.14:962][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-03.34.14:962][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-03.34.14:962][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-03.34.14:963][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.25-03.34.14:964][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.25-03.34.14:964][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.25-03.34.14:981][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.25-03.34.14:981][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.25-03.34.14:981][787]LogInit: FAudioDevice initialized.
+[2022.05.25-03.34.14:981][787]LogAudio: Display: Audio Device (ID: 30) registered with world 'level1'.
+[2022.05.25-03.34.14:994][787]LogLoad: Game class is 'GameModeBase'
+[2022.05.25-03.34.15:006][787]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.05.25-13.04.15
+[2022.05.25-03.34.15:006][787]LogWorld: Bringing up level for play took: 0.012218
+[2022.05.25-03.34.15:007][787]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.05.25-03.34.15:013][787]PIE: Server logged in
+[2022.05.25-03.34.15:013][787]PIE: Play in editor total start time 0.117 seconds.
+[2022.05.25-03.34.33:396][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-03.34.33:396][887]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.05.25-03.34.33:396][887]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-03.34.33:397][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-03.34.33:410][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-03.34.33:413][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-03.34.33:436][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-03.34.33:436][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-03.34.33:437][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.25-03.34.33:490][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.25-03.34.33:510][888]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.05.25-03.34.44:989][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.25-03.34.49:364][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.25-03.34.56:664][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
