@@ -2667,3 +2667,1179 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.03-00.39.36:732][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.03-00.39.36:767][252]LogUObjectHash: Compacting FUObjectHashTables data took   7.97ms
 [2022.06.03-00.39.36:842][253]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.06.03-00.44.39:514][864]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-00.44.39:514][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-00.44.39:525][864]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-00.44.39:525][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-00.44.40:377][912]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-00.44.40:377][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-00.46.26:069][303]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/GameFiles/OtherPlayer/player3/side_walk/_side_walk1._side_walk1
+[2022.06.03-00.46.34:924][770]LogSlate: Window '_side_walk1' being destroyed
+[2022.06.03-00.46.34:932][770]LogSlate: Window '_side_walk1' being destroyed
+[2022.06.03-00.46.34:939][770]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-00.46.34:939][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-00.47.09:864][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.06.03-00.47.09:889][845]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/level1_Auto6362BC9074258C6F563C4109F29024889.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Levels/level1_Auto6.umap'
+[2022.06.03-00.47.09:891][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.083
+[2022.06.03-00.47.09:891][845]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2022.06.03-00.47.09:891][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2] ([1] browsable assets)...
+[2022.06.03-00.47.09:891][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2]
+[2022.06.03-00.47.09:961][845]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2_Auto64B93527E4ED32F8679EBE8B20544861F.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/PlayableCharacter2_Auto6.uasset'
+[2022.06.03-00.47.09:963][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Enemies/FireBall/FireB] ([1] browsable assets)...
+[2022.06.03-00.47.09:963][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Enemies/FireBall/FireB]
+[2022.06.03-00.47.09:972][845]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/FireB_Auto6F628182A42B4FFA0867B9F93E0EFE592.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Enemies/FireBall/FireB_Auto6.uasset'
+[2022.06.03-00.47.09:973][845]LogFileHelpers: Auto-saving content packages took 0.082
+[2022.06.03-00.57.33:891][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/lock_keysystem/keys.keys
+[2022.06.03-00.57.42:828][312]LogSlate: Window 'keys' being destroyed
+[2022.06.03-00.57.42:836][312]LogSlate: Window 'keys' being destroyed
+[2022.06.03-00.57.42:841][312]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-00.57.42:841][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-00.57.44:837][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/lock_keysystem/Lock.Lock
+[2022.06.03-00.57.48:751][613]LogSlate: Window 'Lock' being destroyed
+[2022.06.03-00.57.48:758][613]LogSlate: Window 'Lock' being destroyed
+[2022.06.03-00.57.48:763][613]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-00.57.48:763][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-00.58.41:305][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.06.03-00.58.41:321][739]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.071
+[2022.06.03-00.58.41:321][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2] ([1] browsable assets)...
+[2022.06.03-00.58.41:321][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2]
+[2022.06.03-00.58.41:394][739]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2_Auto76AE9CFB842C1272A34CD9285EEEA0A5D.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/PlayableCharacter2_Auto7.uasset'
+[2022.06.03-00.58.41:396][739]LogFileHelpers: Auto-saving content packages took 0.075
+[2022.06.03-01.01.18:035][558]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/HUD/health_item.health_item
+[2022.06.03-01.01.34:208][463]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.01.34:217][463]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.01.34:221][463]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.01.34:221][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.01.48:144][266]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2022.06.03-01.01.48:163][266]LogContentBrowser: Creating deferred item: 新建文件夹
+[2022.06.03-01.01.53:790][604]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Item
+[2022.06.03-01.01.53:790][604]LogContentBrowser: End creating deferred item 新建文件夹
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.health_item_C' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.health_item:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.health_item:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.health_item:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.health_item:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.health_item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.SKEL_health_item_C' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.SKEL_health_item_C:ReceiveBeginPlay' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.SKEL_health_item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.SKEL_health_item_C:ReceiveTick' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.SKEL_health_item_C:BndEvt__health_item_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:553][537]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/health_item.SKEL_health_item_C:UserConstructionScript' ref from Metadata '/Game/GameFiles/Player_chracter_2/HUD/health_item.PackageMetaData'
+[2022.06.03-01.02.09:593][537]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/health_item50EC53F740F42D316B79C181F3957D42.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/health_item.uasset'
+[2022.06.03-01.02.09:597][537]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/health_item9F12812A45041841C0558EAAF816DB51.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/HUD/health_item.uasset'
+[2022.06.03-01.02.09:601][537]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Health_potion29160D684AC5A4939E5B37856A1AA889.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion.uasset'
+[2022.06.03-01.02.09:609][537]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Health_potion168668F8F42077A65333AB6873C65502B.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion1.uasset'
+[2022.06.03-01.02.09:631][537]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Health_potion_Sprite_0CE568ABE433CBF2701ECD1A923058C8F.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion_Sprite_0.uasset'
+[2022.06.03-01.02.09:729][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.03-01.02.09:763][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.06.03-01.02.09:787][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.03-01.02.09:819][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.06.03-01.02.09:839][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.03-01.02.09:896][537]AssetCheck: New page: 资产保存：多个资产
+[2022.06.03-01.02.09:896][537]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/Item/Health_potion.Health_potion
+[2022.06.03-01.02.09:896][537]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion_Sprite_0.Health_potion_Sprite_0
+[2022.06.03-01.02.09:896][537]LogContentValidation: Display: 正在验证PaperFlipbook /Game/GameFiles/Player_chracter_2/Item/Health_potion1.Health_potion1
+[2022.06.03-01.02.09:896][537]LogContentValidation: Display: 正在验证Blueprint /Game/GameFiles/Player_chracter_2/Item/health_item.health_item
+[2022.06.03-01.02.09:896][537]LogContentValidation: Display: 正在验证ObjectRedirector /Game/GameFiles/Player_chracter_2/HUD/health_item.health_item
+[2022.06.03-01.02.09:896][537]LogContentValidation: Display: 正在验证ObjectRedirector /Game/GameFiles/Player_chracter_2/HUD/health_item.Default__health_item_C
+[2022.06.03-01.02.09:896][537]LogContentValidation: Display: 正在验证ObjectRedirector /Game/GameFiles/Player_chracter_2/HUD/health_item.health_item_C
+[2022.06.03-01.02.18:114][ 25]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2022.06.03-01.02.18:138][ 25]LogContentBrowser: Creating deferred item: 新建文件夹
+[2022.06.03-01.02.25:426][463]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.03-01.02.25:426][463]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.03-01.02.41:278][414]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Health_potion
+[2022.06.03-01.02.41:279][414]LogContentBrowser: End creating deferred item 新建文件夹
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item_C' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.SKEL_health_item_C' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.SKEL_health_item_C:ReceiveBeginPlay' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.SKEL_health_item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.SKEL_health_item_C:ReceiveTick' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.SKEL_health_item_C:BndEvt__health_item_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.SKEL_health_item_C:UserConstructionScript' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item:EventGraph.K2Node_Event_0' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item:EventGraph.K2Node_Event_1' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item:EventGraph.K2Node_Event_2' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:904][687]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/health_item.PackageMetaData'
+[2022.06.03-01.02.45:944][687]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/health_itemF670AF634469CF84977AACAD069C3793.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/health_item.uasset'
+[2022.06.03-01.02.45:949][687]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Health_potionE692027D4398D585C3486D958BCA81B4.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion.uasset'
+[2022.06.03-01.02.45:957][687]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Health_potion1822657CD469E3F8095CDBD8298CF944C.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion1.uasset'
+[2022.06.03-01.02.45:965][687]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Health_potion_Sprite_01A25360A4C88F3508F48808B0337F194.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion_Sprite_0.uasset'
+[2022.06.03-01.02.46:074][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.06.03-01.02.46:101][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.03-01.02.46:122][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.03-01.02.46:142][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.03-01.02.46:175][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.06.03-01.02.46:196][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.03-01.02.46:214][687]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/health_itemA59766114073E8B4D227C9A2F146B8E8.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/HUD/health_item.uasset'
+[2022.06.03-01.02.46:278][687]AssetCheck: New page: 资产保存：多个资产
+[2022.06.03-01.02.46:278][687]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion.Health_potion
+[2022.06.03-01.02.46:278][687]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion_Sprite_0.Health_potion_Sprite_0
+[2022.06.03-01.02.46:278][687]LogContentValidation: Display: 正在验证PaperFlipbook /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion1.Health_potion1
+[2022.06.03-01.02.46:278][687]LogContentValidation: Display: 正在验证Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.03-01.02.46:278][687]LogContentValidation: Display: 正在验证ObjectRedirector /Game/GameFiles/Player_chracter_2/HUD/health_item.health_item
+[2022.06.03-01.02.46:278][687]LogContentValidation: Display: 正在验证ObjectRedirector /Game/GameFiles/Player_chracter_2/HUD/health_item.Default__health_item_C
+[2022.06.03-01.02.46:278][687]LogContentValidation: Display: 正在验证ObjectRedirector /Game/GameFiles/Player_chracter_2/HUD/health_item.health_item_C
+[2022.06.03-01.02.48:538][820]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2022.06.03-01.02.48:561][820]LogContentBrowser: Creating deferred item: 新建文件夹
+[2022.06.03-01.03.02:781][674]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Strength_potion
+[2022.06.03-01.03.02:782][674]LogContentBrowser: End creating deferred item 新建文件夹
+[2022.06.03-01.03.37:372][409]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.03-01.03.47:957][  1]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.03.47:967][  1]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.03.47:974][  1]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.03.47:974][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.06.38:554][264]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Razer 17\Downloads\potions_flat.png)
+[2022.06.03-01.06.38:561][264]LogTexture: Display: 正在编译纹理：potions_flat（AutoDXT、96X48）
+[2022.06.03-01.06.42:256][444]LogTexture: Display: 正在编译纹理：potions_flat（BGRA8、96X48）
+[2022.06.03-01.06.52:859][ 60]LogSlate: Window '提取sprite' being destroyed
+[2022.06.03-01.08.00:136][416]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.03-01.08.13:954][137]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.08.13:963][137]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.08.13:971][137]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.08.13:971][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.08.19:174][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.06.03-01.08.21:326][435]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.03-01.08.21:439][435]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion.Health_potion
+	Asset Name: /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion1.Health_potion1
+	Asset Name: /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion_Sprite_0.Health_potion_Sprite_0
+[2022.06.03-01.08.23:298][435]LogSlate: Window '消息' being destroyed
+[2022.06.03-01.08.23:302][435]Message dialog closed, result: Ok, title: 消息, text: Texture2D /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion.Health_potion正在使用中。
+
+---
+如对象是在启动时加载的，那么使用“-NoLoadStartupPackages”来运行编辑器可能有所帮助。
+---
+
+
+External referencers of Texture2D /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion.Health_potion:
+   PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion_Sprite_0.Health_potion_Sprite_0 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.06.03-01.08.23:302][435]LogObjectTools: Warning: ForceDeleteObject failed to delete Health_potion, this package is now potentially corrupt
+[2022.06.03-01.08.23:408][435]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2022.06.03-01.08.23:455][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.06.03-01.08.23:492][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.06.03-01.08.23:512][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.03-01.08.23:514][435]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.03-01.08.24:519][435]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.005 s
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: 
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3191]
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: 
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: 					from the file system manually: 
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: Stack: 
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbcdce94a8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbcd58a9b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbccce40d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbccfbfbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbccfb70b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfdf859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfe1071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfc546be UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfcd7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfcc0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfcb3632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da2bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:519][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da19197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da2e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da14310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc9782e858 USER32.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc9782e299 USER32.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da2f7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfce2233 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfc7d485 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbcd04c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbcd57e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbcd57d707 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbb0446f4c UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbb044732a UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbb0437a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbc56cdc15 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbc57e1d9e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbc57c3a16 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfc90088 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd7ede1 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd85600 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd5b807 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfdf859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfe1071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfd86d75 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfc546be UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfcd7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfcc0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffbdfcb3632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da2bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da19197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da2e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da14310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc9782e858 USER32.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc9782e299 USER32.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc4da2f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ff7b2a58848 UE4Editor.exe!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ff7b2a7117c UE4Editor.exe!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ff7b2a7125a UE4Editor.exe!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ff7b2a852bd UE4Editor.exe!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ff7b2a87fea UE4Editor.exe!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc967b7034 KERNEL32.DLL!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: [Callstack] 0x00007ffc987a2651 ntdll.dll!UnknownFunction []
+[2022.06.03-01.08.24:520][435]LogOutputDevice: Error: 
+[2022.06.03-01.08.24:530][435]LogStats:                SubmitErrorReport -  0.000 s
+[2022.06.03-01.08.26:009][435]LogStats:                    SendNewReport -  1.479 s
+[2022.06.03-01.08.26:009][435]LogStats:             FDebug::EnsureFailed -  2.495 s
+[2022.06.03-01.08.26:031][435]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.03-01.08.26:066][435]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.03-01.08.26:066][435]LogAudioMixer: Display: 1: FrontRight
+[2022.06.03-01.08.27:922][544]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion.Health_potion
+[2022.06.03-01.08.30:943][697]LogSlate: Window 'Health_potion' being destroyed
+[2022.06.03-01.08.30:954][697]LogSlate: Window 'Health_potion' being destroyed
+[2022.06.03-01.08.32:038][754]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.03-01.08.41:311][222]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameFiles/Player_chracter_2/Item/Health_potion/Health_potion.Health_potion
+[2022.06.03-01.08.43:589][349]LogSlate: Window 'Health_potion' being destroyed
+[2022.06.03-01.08.43:598][349]LogSlate: Window 'Health_potion' being destroyed
+[2022.06.03-01.08.43:602][349]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.08.43:603][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.08.48:019][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.06.03-01.08.48:969][600]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.03-01.08.49:082][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2022.06.03-01.08.49:140][600]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2022.06.03-01.08.49:168][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.03-01.09.07:528][697]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_0067063524045013713EC308BCD858390.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0.uasset'
+[2022.06.03-01.09.07:604][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.06.03-01.09.07:636][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.06.03-01.09.07:656][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.03-01.09.07:712][697]AssetCheck: New page: 资产保存：potions_flat_Sprite_0
+[2022.06.03-01.09.07:712][697]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0.potions_flat_Sprite_0
+[2022.06.03-01.09.11:284][910]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.06.03-01.09.11:285][910]LogContentBrowser: Deferred new asset file creation: potions_flat
+[2022.06.03-01.09.11:312][910]LogContentBrowser: Creating deferred item: potions_flat
+[2022.06.03-01.09.11:749][937]LogContentBrowser: Attempting asset rename: potions_flat -> potions_flat
+[2022.06.03-01.09.11:751][937]LogContentBrowser: End creating deferred item potions_flat
+[2022.06.03-01.09.13:830][ 61]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.03-01.09.59:002][487]BlueprintLog: New page: 编译health_item
+[2022.06.03-01.09.59:059][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.03-01.10.03:174][698]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.06.03-01.10.03:182][698]BlueprintLog: New page: 运行前自动重新编译
+[2022.06.03-01.10.03:188][698]LogPlayLevel: [PlayLevel] Compiling PlayableCharacter2 before play...
+[2022.06.03-01.10.03:269][698]LogPlayLevel: [PlayLevel] Compiling FireB before play...
+[2022.06.03-01.10.03:317][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.06.03-01.10.03:319][698]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (2 blueprints)
+[2022.06.03-01.10.03:319][698]PIE: New page: PIE会话：level1（2022年6月3日 下午8:10:03）
+[2022.06.03-01.10.03:319][698]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.03-01.10.03:321][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002195s)
+[2022.06.03-01.10.03:322][698]LogAIModule: Creating AISystem for world level1
+[2022.06.03-01.10.03:322][698]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2022.06.03-01.10.03:322][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.003176s)
+[2022.06.03-01.10.03:347][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.06.03-01.10.03:348][698]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.03-01.10.03:348][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.03-01.10.03:348][698]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.03-01.10.03:348][698]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.03-01.10.03:354][698]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.03-01.10.03:354][698]LogAudioMixer: Display: 1: FrontRight
+[2022.06.03-01.10.03:361][698]LogAudioMixer: Display: Using Audio Device 扬声器 (G560 Gaming Speaker)
+[2022.06.03-01.10.03:361][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.03-01.10.03:361][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.03-01.10.03:361][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.03-01.10.03:362][698]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.03-01.10.03:362][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.03-01.10.03:362][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.03-01.10.03:375][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.03-01.10.03:375][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.03-01.10.03:375][698]LogInit: FAudioDevice initialized.
+[2022.06.03-01.10.03:375][698]LogAudio: Display: Audio Device (ID: 25) registered with world 'level1'.
+[2022.06.03-01.10.03:399][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.03-01.10.03:399][698]LogLoad: Game class is 'GameModeBase'
+[2022.06.03-01.10.03:404][698]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.06.03-10.40.03
+[2022.06.03-01.10.03:404][698]LogWorld: Bringing up level for play took: 0.004193
+[2022.06.03-01.10.03:404][698]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.06.03-01.10.03:414][698]PIE: 登陆的服务器
+[2022.06.03-01.10.03:417][698]PIE: PIE总开始时间：0.236秒。
+[2022.06.03-01.10.45:986][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.03-01.10.45:986][645]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.03-01.10.45:986][645]LogSlate: Window 'GameProject1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.03-01.10.45:992][645]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.10.45:992][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.10.46:006][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.03-01.10.46:023][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.10.46:083][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.10.46:086][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.10.46:113][645]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.06.03-01.10.46:176][646]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.06.03-01.10.56:691][183]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0.potions_flat_Sprite_0
+[2022.06.03-01.11.14:020][126]BlueprintLog: New page: 编译health_item
+[2022.06.03-01.11.14:071][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.06.03-01.11.27:345][837]LogSlate: Window 'potions_flat_Sprite_0' being destroyed
+[2022.06.03-01.11.27:355][837]LogSlate: Window 'potions_flat_Sprite_0' being destroyed
+[2022.06.03-01.11.27:361][837]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.11.27:361][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.11.27:461][837]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.11.27:461][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.12.08:685][199]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_257F41BCA44CCAD3A57E12EAD0F34DC2E.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Strength_potion/potions_flat_Sprite_2.uasset'
+[2022.06.03-01.12.08:694][199]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_350F2F051495D15ADA114F990CEC2FF03.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Strength_potion/potions_flat_Sprite_3.uasset'
+[2022.06.03-01.12.08:787][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.06.03-01.12.08:821][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.06.03-01.12.08:852][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.03-01.12.08:872][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.03-01.12.08:929][199]AssetCheck: New page: 资产保存：多个资产
+[2022.06.03-01.12.08:929][199]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/Strength_potion/potions_flat_Sprite_3.potions_flat_Sprite_3
+[2022.06.03-01.12.08:929][199]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/Strength_potion/potions_flat_Sprite_2.potions_flat_Sprite_2
+[2022.06.03-01.12.12:827][431]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.06.03-01.12.12:827][431]LogContentBrowser: Deferred new asset file creation: potions_flat
+[2022.06.03-01.12.12:845][431]LogContentBrowser: Creating deferred item: potions_flat
+[2022.06.03-01.12.13:617][478]LogContentBrowser: Attempting asset rename: potions_flat -> potions_flat
+[2022.06.03-01.12.13:619][478]LogContentBrowser: End creating deferred item potions_flat
+[2022.06.03-01.12.15:071][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.06.03-01.12.15:079][563]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/level1_Auto899922B7B459E9F581D04B6B36F77149C.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Levels/level1_Auto8.umap'
+[2022.06.03-01.12.15:081][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.033
+[2022.06.03-01.12.15:081][563]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2022.06.03-01.12.15:082][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2] ([1] browsable assets)...
+[2022.06.03-01.12.15:082][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2]
+[2022.06.03-01.12.15:155][563]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2_Auto8974A602B4FD0591CC17AFBB55DB1FB98.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/PlayableCharacter2_Auto8.uasset'
+[2022.06.03-01.12.15:157][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Enemies/FireBall/FireB] ([1] browsable assets)...
+[2022.06.03-01.12.15:157][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Enemies/FireBall/FireB]
+[2022.06.03-01.12.15:165][563]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/FireB_Auto8B233B06845441F91ED78CCA45374C4F0.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Enemies/FireBall/FireB_Auto8.uasset'
+[2022.06.03-01.12.15:167][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item] ([1] browsable assets)...
+[2022.06.03-01.12.15:167][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item]
+[2022.06.03-01.12.15:175][563]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/health_item_Auto89972E9B94E7B5D94E48F9B8CB7143DE6.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item_Auto8.uasset'
+[2022.06.03-01.12.15:177][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameFiles/Player_chracter_2/Item/potions_flat] ([1] browsable assets)...
+[2022.06.03-01.12.15:178][563]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GameFiles/Player_chracter_2/Item/potions_flat.potions_flat]
+[2022.06.03-01.12.15:178][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/Item/potions_flat]
+[2022.06.03-01.12.15:179][563]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Auto82ABFF89547226497D314F0BB6BF2E4CF.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/Item/potions_flat_Auto8.uasset'
+[2022.06.03-01.12.15:181][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0] ([1] browsable assets)...
+[2022.06.03-01.12.15:186][563]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0.potions_flat_Sprite_0]
+[2022.06.03-01.12.15:186][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0]
+[2022.06.03-01.12.15:188][563]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_0_Auto8ECA0FD3F4554918F0D51E9A37012B983.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0_Auto8.uasset'
+[2022.06.03-01.12.15:190][563]LogFileHelpers: Auto-saving content packages took 0.108
+[2022.06.03-01.12.15:955][608]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/GameFiles/Player_chracter_2/Item/Strength_potion/potions_flat.potions_flat
+[2022.06.03-01.12.44:479][276]LogSlate: Window 'potions_flat' being destroyed
+[2022.06.03-01.12.44:487][276]LogSlate: Window 'potions_flat' being destroyed
+[2022.06.03-01.12.44:492][276]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.12.44:492][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.13.32:988][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.03-01.13.34:091][228]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.03-01.13.34:203][228]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat.potions_flat
+[2022.06.03-01.13.34:477][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.06.03-01.13.39:480][526]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/GameFiles/Player_chracter_2/Item/potions_flat.potions_flat
+[2022.06.03-01.13.41:628][630]LogSlate: Window 'potions_flat' being destroyed
+[2022.06.03-01.13.41:650][630]LogSlate: Window 'potions_flat' being destroyed
+[2022.06.03-01.13.47:027][943]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_13769C8A645AC253E3AA1E3874F81E66A.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_1.uasset'
+[2022.06.03-01.13.47:095][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.03-01.13.47:126][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.06.03-01.13.47:146][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.03-01.13.47:201][943]AssetCheck: New page: 资产保存：potions_flat_Sprite_1
+[2022.06.03-01.13.47:201][943]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_1.potions_flat_Sprite_1
+[2022.06.03-01.13.52:133][238]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.06.03-01.13.52:133][238]LogContentBrowser: Deferred new asset file creation: potions_flat
+[2022.06.03-01.13.52:163][238]LogContentBrowser: Creating deferred item: potions_flat
+[2022.06.03-01.13.52:687][270]LogContentBrowser: Attempting asset rename: potions_flat -> potions_flat
+[2022.06.03-01.13.52:688][270]LogContentBrowser: End creating deferred item potions_flat
+[2022.06.03-01.14.08:502][190]LogSlate: Window 'potions_flat_Sprite_0 - 属性编辑器' being destroyed
+[2022.06.03-01.14.08:525][190]LogSlate: Window 'potions_flat_Sprite_0 - 属性编辑器' being destroyed
+[2022.06.03-01.14.13:995][512]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat.potions_flat
+[2022.06.03-01.14.20:327][866]LogSlate: Window 'potions_flat' being destroyed
+[2022.06.03-01.14.20:344][866]LogSlate: Window 'potions_flat' being destroyed
+[2022.06.03-01.14.20:349][866]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.14.20:349][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.14.34:560][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.03-01.14.35:901][712]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.03-01.14.35:991][712]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2022.06.03-01.14.40:429][976]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.06.03-01.14.40:430][976]LogContentBrowser: Deferred new asset file creation: potions_flat
+[2022.06.03-01.14.40:460][976]LogContentBrowser: Creating deferred item: potions_flat
+[2022.06.03-01.14.40:880][  2]LogContentBrowser: Attempting asset rename: potions_flat -> potions_flat
+[2022.06.03-01.14.40:882][  2]LogContentBrowser: End creating deferred item potions_flat
+[2022.06.03-01.14.42:479][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.03-01.15.11:592][640]BlueprintLog: New page: 编译health_item
+[2022.06.03-01.15.11:641][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.06.03-01.15.15:326][840]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.15.15:334][840]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.15.15:338][840]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.15.15:338][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.15.42:397][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.06.03-01.15.49:066][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.health_item
+[2022.06.03-01.15.57:727][131]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.15.57:751][131]LogSlate: Window 'health_item' being destroyed
+[2022.06.03-01.15.57:756][131]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.15.57:756][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.16.32:052][968]LogContentBrowser: Attempting asset rename: health_item -> Strength_item
+[2022.06.03-01.16.32:070][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.SKEL_Strength_item_C' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:071][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.Strength_item_C' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:071][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.SKEL_Strength_item_C:ReceiveBeginPlay' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:071][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.SKEL_Strength_item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:071][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.SKEL_Strength_item_C:ReceiveTick' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:071][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.SKEL_Strength_item_C:BndEvt__health_item_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:071][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.SKEL_Strength_item_C:UserConstructionScript' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:071][968]LogMetaData: Removing '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.Strength_item_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/GameFiles/Player_chracter_2/Item/Strength_potion/health_item.PackageMetaData'
+[2022.06.03-01.16.32:104][968]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Strength_item1D76707C45BAC97C712A13B867CD33BE.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.uasset'
+[2022.06.03-01.16.32:181][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.06.03-01.16.32:216][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.06.03-01.16.32:236][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.03-01.16.32:279][968]AssetCheck: New page: 资产保存：Strength_item
+[2022.06.03-01.16.32:279][968]LogContentValidation: Display: 正在验证Blueprint /Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.Strength_item
+[2022.06.03-01.16.38:581][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.06.03-01.16.40:632][345]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.03-01.16.40:721][345]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.06.03-01.16.45:160][609]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2022.06.03-01.16.45:160][609]LogContentBrowser: Deferred new asset file creation: potions_flat
+[2022.06.03-01.16.45:191][609]LogContentBrowser: Creating deferred item: potions_flat
+[2022.06.03-01.16.45:512][629]LogContentBrowser: Attempting asset rename: potions_flat -> potions_flat
+[2022.06.03-01.16.45:513][629]LogContentBrowser: End creating deferred item potions_flat
+[2022.06.03-01.16.46:457][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.Strength_item
+[2022.06.03-01.17.01:754][494]BlueprintLog: New page: 编译Strength_item
+[2022.06.03-01.17.01:799][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.06.03-01.17.33:507][228]BlueprintLog: New page: 编译Strength_item
+[2022.06.03-01.17.33:552][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.06.03-01.18.29:990][233]LogEditorTransaction: Undo 删除当前选项
+[2022.06.03-01.19.01:868][984]BlueprintLog: New page: 编译Strength_item
+[2022.06.03-01.19.01:914][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.06.03-01.19.12:500][536]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.06.03-01.19.12:515][536]BlueprintLog: New page: 运行前自动重新编译
+[2022.06.03-01.19.12:522][536]LogPlayLevel: [PlayLevel] Compiling PlayableCharacter2 before play...
+[2022.06.03-01.19.12:575][536]LogPlayLevel: [PlayLevel] Compiling FireB before play...
+[2022.06.03-01.19.12:593][536]LogPlayLevel: [PlayLevel] Compiling health_item before play...
+[2022.06.03-01.19.12:644][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.06.03-01.19.12:648][536]LogPlayLevel: PlayLevel: Blueprint regeneration took 133 ms (3 blueprints)
+[2022.06.03-01.19.12:648][536]PIE: New page: PIE会话：level1（2022年6月3日 下午8:19:12）
+[2022.06.03-01.19.12:648][536]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.03-01.19.12:650][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002273s)
+[2022.06.03-01.19.12:651][536]LogAIModule: Creating AISystem for world level1
+[2022.06.03-01.19.12:651][536]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2022.06.03-01.19.12:651][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.003266s)
+[2022.06.03-01.19.12:683][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.03-01.19.12:683][536]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.06.03-01.19.12:683][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.03-01.19.12:683][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.03-01.19.12:683][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.03-01.19.12:683][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.03-01.19.12:683][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.03-01.19.12:683][536]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.03-01.19.12:683][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.03-01.19.12:683][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.03-01.19.12:684][536]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.03-01.19.12:684][536]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.03-01.19.12:691][536]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.03-01.19.12:691][536]LogAudioMixer: Display: 1: FrontRight
+[2022.06.03-01.19.12:699][536]LogAudioMixer: Display: Using Audio Device 扬声器 (G560 Gaming Speaker)
+[2022.06.03-01.19.12:699][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.03-01.19.12:699][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.03-01.19.12:699][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.03-01.19.12:700][536]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.03-01.19.12:700][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.03-01.19.12:700][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.03-01.19.12:713][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.03-01.19.12:713][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.03-01.19.12:713][536]LogInit: FAudioDevice initialized.
+[2022.06.03-01.19.12:713][536]LogAudio: Display: Audio Device (ID: 26) registered with world 'level1'.
+[2022.06.03-01.19.12:734][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.03-01.19.12:735][536]LogLoad: Game class is 'GameModeBase'
+[2022.06.03-01.19.12:739][536]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.06.03-10.49.12
+[2022.06.03-01.19.12:740][536]LogWorld: Bringing up level for play took: 0.003894
+[2022.06.03-01.19.12:740][536]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.06.03-01.19.12:750][536]PIE: 登陆的服务器
+[2022.06.03-01.19.12:753][536]PIE: PIE总开始时间：0.244秒。
+[2022.06.03-01.19.27:647][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.03-01.19.27:647][227]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.03-01.19.27:647][227]LogSlate: Window 'GameProject1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.03-01.19.27:654][227]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.19.27:655][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.19.27:668][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.03-01.19.27:692][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.19.27:748][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.19.27:752][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.19.27:785][227]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2022.06.03-01.19.27:852][228]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.06.03-01.20.25:228][395]BlueprintLog: New page: 编译Strength_item
+[2022.06.03-01.20.25:287][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.06.03-01.20.26:321][446]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.06.03-01.20.26:329][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.03-01.20.26:329][446]PIE: New page: PIE会话：level1（2022年6月3日 下午8:20:26）
+[2022.06.03-01.20.26:330][446]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.03-01.20.26:338][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008591s)
+[2022.06.03-01.20.26:339][446]LogAIModule: Creating AISystem for world level1
+[2022.06.03-01.20.26:339][446]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2022.06.03-01.20.26:339][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.009691s)
+[2022.06.03-01.20.26:364][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.06.03-01.20.26:365][446]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.06.03-01.20.26:365][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.03-01.20.26:365][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.03-01.20.26:365][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.03-01.20.26:366][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.03-01.20.26:366][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.03-01.20.26:366][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.03-01.20.26:366][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.03-01.20.26:366][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.03-01.20.26:366][446]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.03-01.20.26:366][446]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.03-01.20.26:371][446]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.03-01.20.26:371][446]LogAudioMixer: Display: 1: FrontRight
+[2022.06.03-01.20.26:378][446]LogAudioMixer: Display: Using Audio Device 扬声器 (G560 Gaming Speaker)
+[2022.06.03-01.20.26:378][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.03-01.20.26:378][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.03-01.20.26:378][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.03-01.20.26:378][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.03-01.20.26:378][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.03-01.20.26:378][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.03-01.20.26:393][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.03-01.20.26:393][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.03-01.20.26:393][446]LogInit: FAudioDevice initialized.
+[2022.06.03-01.20.26:393][446]LogAudio: Display: Audio Device (ID: 27) registered with world 'level1'.
+[2022.06.03-01.20.26:416][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.03-01.20.26:417][446]LogLoad: Game class is 'GameModeBase'
+[2022.06.03-01.20.26:421][446]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.06.03-10.50.26
+[2022.06.03-01.20.26:422][446]LogWorld: Bringing up level for play took: 0.004300
+[2022.06.03-01.20.26:422][446]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.06.03-01.20.26:431][446]PIE: 登陆的服务器
+[2022.06.03-01.20.26:433][446]PIE: PIE总开始时间：0.105秒。
+[2022.06.03-01.20.50:688][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.03-01.20.50:688][552]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.03-01.20.50:688][552]LogSlate: Window 'GameProject1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.03-01.20.50:695][552]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.20.50:696][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.20.50:709][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.03-01.20.50:723][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.20.50:772][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.03-01.20.50:773][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.20.50:776][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.20.50:812][552]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2022.06.03-01.20.50:883][553]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.06.03-01.20.55:010][782]LogEditorViewport: Clicking on Actor (LMB): Strength_item_C (Strength_item)
+[2022.06.03-01.20.57:064][894]LogEditorViewport: Clicking on Actor (LMB): health_item_C (health_item)
+[2022.06.03-01.21.32:061][818]LogEditorViewport: Clicking on Actor (LMB): Bandit_C (Bandit)
+[2022.06.03-01.21.46:717][616]LogSlate: Window 'Strength_item' being destroyed
+[2022.06.03-01.21.46:726][616]LogSlate: Window 'Strength_item' being destroyed
+[2022.06.03-01.21.46:730][616]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.21.46:731][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.22.03:371][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.06.03-01.22.05:584][356]LogSlate: Window '保存内容' being destroyed
+[2022.06.03-01.22.05:643][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-00FC429EE84DBE038370BCCAA499C94FA9.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-00.uasset'
+[2022.06.03-01.22.05:658][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-00_SpriteD0619CAA4117CE62CA575DBC2D425AC8.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-00_Sprite.uasset'
+[2022.06.03-01.22.05:666][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-01C311AE2C4A8E252814A07CBD0FADFAF1.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-01.uasset'
+[2022.06.03-01.22.05:680][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-01_SpriteD059AAA844F0A251266ABF8255A092A4.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-01_Sprite.uasset'
+[2022.06.03-01.22.05:686][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-0237D48CC54409E122A9FB4AAE0E4A27C7.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-02.uasset'
+[2022.06.03-01.22.05:699][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-02_SpriteA17BA3B7490FA3356EAA1586F849E75F.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-02_Sprite.uasset'
+[2022.06.03-01.22.05:707][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-03BA62779B471F7BDE4100CAA68134C042.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-03.uasset'
+[2022.06.03-01.22.05:723][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-cast-03_Sprite1583196B43DB1B4CD8F157BC4CA8C7AF.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-03_Sprite.uasset'
+[2022.06.03-01.22.05:729][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-000862040C4BA3820AAF78C6B829799716.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-00.uasset'
+[2022.06.03-01.22.05:744][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-00_Sprite2BE8ABDC4E4F7A79FA2786B96AF1C87C.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-00_Sprite.uasset'
+[2022.06.03-01.22.05:750][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-01B5FF25684BA39B09A5304E9C2F40D8DC.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-01.uasset'
+[2022.06.03-01.22.05:763][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-01_Sprite992AC8C94CF93EC812EEB786B7BF09DC.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-01_Sprite.uasset'
+[2022.06.03-01.22.05:769][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-02038D30EE40178A9584DE6383E497A499.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-02.uasset'
+[2022.06.03-01.22.05:779][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-02_Sprite42C235DF42BA1926AE33ED8271BE65CD.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-02_Sprite.uasset'
+[2022.06.03-01.22.05:784][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-03D149EFC548BE866EC5AA6DBD2B126B2B.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-03.uasset'
+[2022.06.03-01.22.05:793][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/adventurer-smrslt-03_Sprite59812C484B8D1572F8531D89B413FBC1.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-03_Sprite.uasset'
+[2022.06.03-01.22.05:796][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Animation_En2548E4D64D5D30377D809FB871C37DF6.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Animation_En.uasset'
+[2022.06.03-01.22.05:806][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/FireBEF4CC5AB42F72ECF9A5CCFBA38C12033.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Enemies/FireBall/FireB.uasset'
+[2022.06.03-01.22.05:815][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/health_item2BF7EE2146194E4EA2992DBCA46ED404.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/health_item.uasset'
+[2022.06.03-01.22.05:839][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.06.03-01.22.05:846][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/level182EFDA284450D3F37286CE935F63F228.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Levels/level1.umap'
+[2022.06.03-01.22.05:853][356]LogFileHelpers: Saving map 'level1' took 0.037
+[2022.06.03-01.22.05:927][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter29D0A4FDA468C0148CD8F6CB0E8594A50.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/PlayableCharacter2.uasset'
+[2022.06.03-01.22.05:936][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat9A040FC64ABAE621F5CD72A09005F3E0.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat.uasset'
+[2022.06.03-01.22.05:944][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flatBF8854974424AAC6029FDF92E6A78F12.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Strength_potion/potions_flat.uasset'
+[2022.06.03-01.22.05:947][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat24BEC50F4B33FDB55765829949008927.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat.uasset'
+[2022.06.03-01.22.05:956][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_02C78CD9B4D6506D08009829C2D57E03B.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0.uasset'
+[2022.06.03-01.22.05:965][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_1011E1C9364938A462C5DFD496FAD53E24.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_10.uasset'
+[2022.06.03-01.22.05:973][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_11EC981399426A5C7E2B65F4984E50CC14.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_11.uasset'
+[2022.06.03-01.22.05:980][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_4845D0B49412B79E7F7C337BB236E2660.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_4.uasset'
+[2022.06.03-01.22.05:988][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_5C0AC778D45ACD221355EC8BA78B31E6B.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_5.uasset'
+[2022.06.03-01.22.05:996][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_69725B30B4C42F3E39A915EB5A824FC72.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_6.uasset'
+[2022.06.03-01.22.06:004][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_7EB7813D245BC4D4495BCAA8FECE4BE26.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_7.uasset'
+[2022.06.03-01.22.06:013][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_82873D69947E24126BD24EC8F81E10DC7.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_8.uasset'
+[2022.06.03-01.22.06:021][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/potions_flat_Sprite_94B7A3920476EF904BD1E8ABCCD768AC6.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_9.uasset'
+[2022.06.03-01.22.06:030][356]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Strength_item61485616409AE1EE040658BD4289D6FF.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Content/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.uasset'
+[2022.06.03-01.22.06:051][356]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.03-01.22.06:051][356]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.22.06:051][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.03-01.22.06:107][356]LogSlate: Window 'GameProject1 - 虚幻编辑器' being destroyed
+[2022.06.03-01.22.06:324][356]AssetCheck: New page: 资产保存：多个资产
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证UserDefinedEnum /Game/GameFiles/Player_chracter_2/Animation_En.Animation_En
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Blueprint /Game/GameFiles/Player_chracter_2/PlayableCharacter2.PlayableCharacter2
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Blueprint /Game/GameFiles/Enemies/FireBall/FireB.FireB
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-03.adventurer-cast-03
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证World /Game/GameFiles/Levels/level1.level1
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-03_Sprite.adventurer-cast-03_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-02_Sprite.adventurer-cast-02_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-01_Sprite.adventurer-cast-01_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-00_Sprite.adventurer-cast-00_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-02.adventurer-cast-02
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-01.adventurer-cast-01
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/fire_attack/adventurer-cast-00.adventurer-cast-00
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-01.adventurer-smrslt-01
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-00.adventurer-smrslt-00
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-02.adventurer-smrslt-02
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-03.adventurer-smrslt-03
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-03_Sprite.adventurer-smrslt-03_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-02_Sprite.adventurer-smrslt-02_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-01_Sprite.adventurer-smrslt-01_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Roll/adventurer-smrslt-00_Sprite.adventurer-smrslt-00_Sprite
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperFlipbook /Game/GameFiles/Player_chracter_2/Item/Strength_potion/potions_flat.potions_flat
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Blueprint /Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.Strength_item
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_11.potions_flat_Sprite_11
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_10.potions_flat_Sprite_10
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_9.potions_flat_Sprite_9
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_8.potions_flat_Sprite_8
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_7.potions_flat_Sprite_7
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_6.potions_flat_Sprite_6
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_5.potions_flat_Sprite_5
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/potions_flat_Sprite_4.potions_flat_Sprite_4
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperSprite /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat_Sprite_0.potions_flat_Sprite_0
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证Texture2D /Game/GameFiles/Player_chracter_2/Item/potions_flat.potions_flat
+[2022.06.03-01.22.06:324][356]LogContentValidation: Display: 正在验证PaperFlipbook /Game/GameFiles/Player_chracter_2/Item/Health_potion/potions_flat.potions_flat
+[2022.06.03-01.22.06:345][357]Cmd: QUIT_EDITOR
+[2022.06.03-01.22.06:345][357]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.06.03-01.22.06:352][357]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.06.03-01.22.06:670][357]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.06.03-01.22.06:670][357]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.06.03-01.22.06:670][357]LogAudio: Display: Audio Device unregistered from world 'level1'.
+[2022.06.03-01.22.06:670][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.22.06:670][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.03-01.22.06:687][357]LogAudio: Display: Audio Device Manager Shutdown
+[2022.06.03-01.22.06:689][357]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.03-01.22.06:700][357]LogExit: Preparing to exit.
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A27300] Windows
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A27200] Default__DeviceProfile
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ECE00] WindowsNoEditor
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A24E00] WindowsServer
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EEE00] WindowsClient
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A26D00] IOS
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ED500] iPadAir
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A25500] iPadAir2
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ACB00] IPadPro
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ACC00] iPadAir3
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A26A00] iPadAir4
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AF600] iPadMini2
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A25600] iPadMini3
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ACD00] iPadMini4
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A26E00] iPadMini5
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EE700] iPhone6
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EE600] iPodTouch6
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AF000] iPhone7
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ABF00] iPodTouch7
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EFA00] iPhone5S
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9400] iPhone6Plus
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EF500] iPhone6S
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ABE00] iPhone6SPlus
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EFF00] iPhone7Plus
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AAF00] iPhoneSE
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EE500] iPhone8
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA700] iPhone8Plus
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EF900] iPhoneX
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9700] iPhoneXS
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EF100] iPhoneXSMax
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA400] iPhoneXR
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EFD00] iPhone11
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9C00] iPhone11Pro
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ED400] iPhone11ProMax
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA100] iPhoneSE2
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ED300] iPhone12Mini
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9F00] iPhone12
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ED000] iPhone12Pro
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9300] iPhone12ProMax
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EC500] iPadPro105
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA500] iPadPro129
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EC600] iPadPro97
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA300] iPadPro2_129
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ED700] iPad5
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AB000] iPad6
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EF800] iPad7
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A8500] iPad8
+[2022.06.03-01.22.07:546][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ECB00] iPadPro11
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AB400] iPadPro2_11
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EF600] iPadPro3_129
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9900] iPadPro4_129
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ED600] AppleTV
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AB700] AppleTV4K
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EF400] TVOS
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AAD00] Mac
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ECC00] MacClient
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AAC00] MacNoEditor
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09EDB00] MacServer
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9600] Linux
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ECA00] LinuxAArch64
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A7D600] LinuxNoEditor
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ACF00] LinuxAArch64NoEditor
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A7D300] LinuxClient
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ADC00] LinuxAArch64Client
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A7D100] LinuxServer
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ACA00] LinuxAArch64Server
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A7D000] Android
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AF700] Android_Low
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C0A7C300] Android_Mid
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AC900] Android_High
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9200] Android_Default
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AF200] Android_Adreno4xx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA900] Android_Adreno5xx_Low
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AE000] Android_Adreno5xx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ABD00] Android_Adreno6xx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AF500] Android_Adreno6xx_Vulkan
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A8400] Android_Mali_T6xx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AD000] Android_Mali_T7xx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA200] Android_Mali_T8xx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AFE00] Android_Mali_G71
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AB800] Android_Mali_G72
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AFA00] Android_Mali_G72_Vulkan
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A8700] Android_Mali_G76
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AE400] Android_Mali_G76_Vulkan
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AAE00] Android_Mali_G77
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AF300] Android_Mali_G77_Vulkan
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9500] Android_Vulkan_SM5
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AD700] Android_PowerVR_G6xxx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A8F00] Android_PowerVR_GT7xxx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AC500] Android_PowerVR_GE8xxx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A8B00] Android_PowerVR_GM9xxx
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09ADB00] Android_PowerVR_GM9xxx_Vulkan
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AB600] Android_TegraK1
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AF100] Android_Unknown_Vulkan
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AA000] Lumin
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09AD100] Lumin_Desktop
+[2022.06.03-01.22.07:547][357]LogDeviceProfile: Device profile begin destroy: [00000245C09A9E00] HoloLens
+[2022.06.03-01.22.07:553][357]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.22.07:607][357]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.06.03-01.22.07:614][357]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.06.03-01.22.07:614][357]LogExit: Editor shut down
+[2022.06.03-01.22.07:614][357]LogExit: Transaction tracking system shut down
+[2022.06.03-01.22.07:777][357]LogExit: Object subsystem successfully closed.
+[2022.06.03-01.22.07:808][357]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module TextureEditor (828)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (826)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (824)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module Voice (822)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SequencerWidgets (820)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module BlueprintGraph (818)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module GooglePADEditor (794)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (792)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module TextureAlignMode (790)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module BspMode (788)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module GeometryMode (786)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module PlanarCut (784)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (782)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (780)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (778)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (776)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module WebMMedia (774)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (772)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (770)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SequenceRecorder (769)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (766)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (764)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (762)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (760)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (758)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (756)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (754)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (752)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (750)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (746)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (742)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (740)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (738)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.06.03-01.22.07:895][357]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.06.03-01.22.07:896][357]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2022.06.03-01.22.09:252][357]MemoryProfiler: Shutdown
+[2022.06.03-01.22.09:252][357]NetworkingProfiler: Shutdown
+[2022.06.03-01.22.09:252][357]LoadingProfiler: Shutdown
+[2022.06.03-01.22.09:252][357]TimingProfiler: Shutdown
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2022.06.03-01.22.09:252][357]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2022.06.03-01.22.09:284][357]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2022.06.03-01.22.09:293][357]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2022.06.03-01.22.09:293][357]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2022.06.03-01.22.09:293][357]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2022.06.03-01.22.09:293][357]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2022.06.03-01.22.09:293][357]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2022.06.03-01.22.09:293][357]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2022.06.03-01.22.09:293][357]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2022.06.03-01.22.09:294][357]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2022.06.03-01.22.09:294][357]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2022.06.03-01.22.09:295][357]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2022.06.03-01.22.09:300][357]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2022.06.03-01.22.09:463][357]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2022.06.03-01.22.09:463][357]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2022.06.03-01.22.09:463][357]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2022.06.03-01.22.09:463][357]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2022.06.03-01.22.09:463][357]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (554)
+[2022.06.03-01.22.09:463][357]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (552)
+[2022.06.03-01.22.09:463][357]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module SynthesisEditor (546)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module Synthesis (544)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (538)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GooglePAD (536)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module EditableMesh (534)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (532)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module CableComponent (530)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module AudioCapture (528)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (527)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (522)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (520)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module AppleImageUtils (518)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module AndroidPermission (516)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (514)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (512)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (510)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (508)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module PluginBrowser (506)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (504)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module CurveEditorTools (502)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (500)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module CryptoKeys (498)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (496)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module MotoSynth (494)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module MediaCompositing (492)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ImgMedia (490)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module TemplateSequence (488)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module MeshConversion (486)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module DynamicMesh (484)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (482)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometricObjects (480)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (478)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (477)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (474)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (472)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (470)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (468)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (466)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module FractureEditor (464)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (462)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module ChaosNiagara (460)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (459)
+[2022.06.03-01.22.09:464][357]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module BackChannel (452)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module AlembicImporter (450)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module AlembicLibrary (449)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module GeometryCache (448)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (447)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (442)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (440)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (438)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (436)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (434)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (432)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (430)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (428)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (426)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (424)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (422)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module UObjectPlugin (420)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (418)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (416)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module PluginUtils (414)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (412)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module SourceControl (409)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (404)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2022.06.03-01.22.09:465][357]LogModuleManager: Shutting down and abandoning module UdpMessaging (372)
+[2022.06.03-01.22.09:566][357]LogModuleManager: Shutting down and abandoning module TcpMessaging (370)
+[2022.06.03-01.22.09:666][357]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (368)
+[2022.06.03-01.22.09:666][357]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (366)
+[2022.06.03-01.22.09:666][357]LogModuleManager: Shutting down and abandoning module FacialAnimation (364)
+[2022.06.03-01.22.09:666][357]LogModuleManager: Shutting down and abandoning module DataValidation (362)
+[2022.06.03-01.22.09:666][357]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (360)
+[2022.06.03-01.22.09:666][357]LogModuleManager: Shutting down and abandoning module LevelEditor (359)
+[2022.06.03-01.22.09:667][357]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (358)
+[2022.06.03-01.22.09:667][357]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (356)
+[2022.06.03-01.22.09:667][357]LogModuleManager: Shutting down and abandoning module MainFrame (354)
+[2022.06.03-01.22.09:668][357]LogModuleManager: Shutting down and abandoning module HotReload (353)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module ToolMenus (349)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module ContentBrowser (347)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module ContentBrowserData (346)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module TreeMap (343)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module ActorSequence (340)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (338)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (336)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (334)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (332)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (330)
+[2022.06.03-01.22.09:669][357]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (328)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (326)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (324)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (322)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapController (320)
+[2022.06.03-01.22.09:669][357]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (318)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module MagicLeapAR (316)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module AugmentedReality (315)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (312)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module Niagara (310)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module SignalProcessing (309)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module NiagaraEditor (307)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module NiagaraCore (304)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2022.06.03-01.22.09:669][357]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module Paper2D (296)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (294)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.06.03-01.22.09:670][357]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.06.03-01.22.09:671][357]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.06.03-01.22.09:672][357]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.06.03-01.22.09:672][357]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.06.03-01.22.09:673][357]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.06.03-01.22.09:674][357]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.06.03-01.22.09:675][357]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.06.03-01.22.09:678][357]LogHMD: Freeing OpenVRDLLHandle.
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.06.03-01.22.09:678][357]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2022.06.03-01.22.09:679][357]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2022.06.03-01.22.09:679][357]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2022.06.03-01.22.09:710][357]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2022.06.03-01.22.09:710][357]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.06.03-01.22.09:710][357]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC22595E6-4B66-5B6C-CF66-1383D6D3108E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=5b5a34a5486471b5775e67a6703f8683%7C8b487450f5ec4a5cac3fc2e7762fb45d%7Cb1c1c716-1d86-4ff5-84be-d329114db1d3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.06.03-01.22.09:710][357]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.06.03-01.22.09:725][357]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2022.06.03-01.22.09:726][357]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.06.03-01.22.09:727][357]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.06.03-01.22.09:728][357]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.06.03-01.22.09:729][357]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.06.03-01.22.09:734][357]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.06.03-01.22.09:734][357]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.06.03-01.22.09:736][357]LogD3D11RHI: Shutdown
+[2022.06.03-01.22.09:736][357]LogD3D11RHI: CleanupD3DDevice
+[2022.06.03-01.22.09:756][357]LogExit: Exiting.
+[2022.06.03-01.22.09:764][357]Log file closed, 06/03/22 10:52:09
