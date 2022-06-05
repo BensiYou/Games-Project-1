@@ -1771,3 +1771,321 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.05-23.13.20:127][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.06.05-23.13.20:150][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
 [2022.06.05-23.13.20:183][268]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.06.05-23.16.05:122][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.06.05-23.16.05:123][970]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.031
+[2022.06.05-23.16.05:124][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2] ([1] browsable assets)...
+[2022.06.05-23.16.05:124][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2]
+[2022.06.05-23.16.05:217][970]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2_Auto7346D041D4FA32124940004A069966710.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/PlayableCharacter2_Auto7.uasset'
+[2022.06.05-23.16.05:220][970]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball] ([1] browsable assets)...
+[2022.06.05-23.16.05:220][970]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball]
+[2022.06.05-23.16.05:227][970]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Fireball_Auto74D47639B4AEA39DBEADD638EF828E9AB.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/FireBall/Fireball_Auto7.uasset'
+[2022.06.05-23.16.05:229][970]LogFileHelpers: Auto-saving content packages took 0.105
+[2022.06.05-23.21.30:334][985]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.21.30:334][985]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.25.59:680][910]BlueprintLog: New page: 编译Fireball
+[2022.06.05-23.25.59:749][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.06.05-23.26.56:550][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.06.05-23.26.56:552][862]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.026
+[2022.06.05-23.26.56:553][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2] ([1] browsable assets)...
+[2022.06.05-23.26.56:553][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2]
+[2022.06.05-23.26.56:628][862]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2_Auto801AF8F0F4366B8BF1F7F0A9934B1C738.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/PlayableCharacter2_Auto8.uasset'
+[2022.06.05-23.26.56:630][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball] ([1] browsable assets)...
+[2022.06.05-23.26.56:630][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball]
+[2022.06.05-23.26.56:635][862]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Fireball_Auto8CB342E8F482D180184A724B5271AE20B.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/FireBall/Fireball_Auto8.uasset'
+[2022.06.05-23.26.56:636][862]LogFileHelpers: Auto-saving content packages took 0.083
+[2022.06.05-23.27.40:402][487]LogEditorViewport: Clicking on Actor (LMB): Exploder_C (Exploder)
+[2022.06.05-23.27.41:915][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Enemies/EnemyExploder/Exploder.Exploder
+[2022.06.05-23.28.10:326][249]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.28.10:327][249]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.06.05-23.30.12:689][559]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.30.12:689][559]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.33.40:322][612]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.33.40:324][612]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.06.05-23.34.23:490][187]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.34.23:490][187]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.35.41:908][843]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.05-23.35.41:909][843]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.06.05-23.38.24:547][354]BlueprintLog: New page: 编译Fireball
+[2022.06.05-23.38.24:578][354]LogBlueprint: Warning: [AssetLog] C:\Users\Razer 17\Documents\GitHub\Games-Project-1\GameProject1\Content\GameFiles\Player_chracter_2\FireBall\Fireball.uasset: [Compiler] 在'Fireball_C’中找不到名为"EnemyAttackable\”的变量。
+请确保已针对  设置EnemyAttackable  对'Fireball_C’进行了编译
+[2022.06.05-23.38.24:578][354]LogBlueprint: Warning: [AssetLog] C:\Users\Razer 17\Documents\GitHub\Games-Project-1\GameProject1\Content\GameFiles\Player_chracter_2\FireBall\Fireball.uasset: [Compiler] 在'Fireball_C’中找不到名为"EnemyAttackable\”的变量。
+请确保已针对  设置EnemyAttackable  对'Fireball_C’进行了编译
+[2022.06.05-23.38.24:579][354]LogBlueprint: Warning: [AssetLog] C:\Users\Razer 17\Documents\GitHub\Games-Project-1\GameProject1\Content\GameFiles\Player_chracter_2\FireBall\Fireball.uasset: [Compiler] 在'Fireball_C’中找不到名为"EnemyAttackable\”的变量。
+请确保已针对  设置EnemyAttackable  对'Fireball_C’进行了编译
+[2022.06.05-23.38.24:580][354]LogBlueprint: Error: [AssetLog] C:\Users\Razer 17\Documents\GitHub\Games-Project-1\GameProject1\Content\GameFiles\Player_chracter_2\FireBall\Fireball.uasset: [Compiler] 未能在“/Game/GameFiles/Player_chracter_2/FireBall/Fireball.Fireball_C”中找到和 Enemy Attackable 相关的属性
+[2022.06.05-23.38.24:580][354]LogBlueprint: Error: [AssetLog] C:\Users\Razer 17\Documents\GitHub\Games-Project-1\GameProject1\Content\GameFiles\Player_chracter_2\FireBall\Fireball.uasset: [Compiler] 未能在“/Game/GameFiles/Player_chracter_2/FireBall/Fireball.Fireball_C”中找到和 Enemy Attackable 相关的属性
+[2022.06.05-23.38.24:581][354]LogBlueprint: Error: [AssetLog] C:\Users\Razer 17\Documents\GitHub\Games-Project-1\GameProject1\Content\GameFiles\Player_chracter_2\FireBall\Fireball.uasset: [Compiler] 未能在“/Game/GameFiles/Player_chracter_2/FireBall/Fireball.Fireball_C”中找到和 Enemy Attackable 相关的属性
+[2022.06.05-23.38.24:627][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.06.05-23.39.19:831][626]BlueprintLog: New page: 编译Fireball
+[2022.06.05-23.39.19:908][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.06.05-23.39.22:017][743]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.06.05-23.39.22:025][743]BlueprintLog: New page: 运行前自动重新编译
+[2022.06.05-23.39.22:059][743]LogPlayLevel: [PlayLevel] Compiling Exploder before play...
+[2022.06.05-23.39.22:188][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.05-23.39.22:188][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2022.06.05-23.39.22:188][743]PIE: New page: PIE会话：level1（2022年6月6日 下午6:39:22）
+[2022.06.05-23.39.22:188][743]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.39.22:191][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002790s)
+[2022.06.05-23.39.22:192][743]LogAIModule: Creating AISystem for world level1
+[2022.06.05-23.39.22:192][743]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2022.06.05-23.39.22:192][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.003919s)
+[2022.06.05-23.39.22:216][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.06.05-23.39.22:217][743]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-23.39.22:217][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-23.39.22:217][743]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-23.39.22:217][743]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-23.39.22:224][743]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-23.39.22:224][743]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-23.39.22:231][743]LogAudioMixer: Display: Using Audio Device 扬声器 (G560 Gaming Speaker)
+[2022.06.05-23.39.22:231][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-23.39.22:232][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-23.39.22:232][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-23.39.22:232][743]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-23.39.22:232][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-23.39.22:232][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-23.39.22:245][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-23.39.22:245][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-23.39.22:245][743]LogInit: FAudioDevice initialized.
+[2022.06.05-23.39.22:245][743]LogAudio: Display: Audio Device (ID: 18) registered with world 'level1'.
+[2022.06.05-23.39.22:273][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.39.22:273][743]LogLoad: Game class is 'GameModeBase'
+[2022.06.05-23.39.22:277][743]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.06.06-09.09.22
+[2022.06.05-23.39.22:278][743]LogWorld: Bringing up level for play took: 0.004122
+[2022.06.05-23.39.22:278][743]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.06.05-23.39.22:280][743]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.05-23.39.22:285][743]PIE: 登陆的服务器
+[2022.06.05-23.39.22:286][743]PIE: PIE总开始时间：0.263秒。
+[2022.06.05-23.39.59:379][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.39.59:381][565]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.39.59:381][565]LogSlate: Window 'GameProject1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-23.39.59:385][565]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-23.39.59:386][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.39.59:397][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-23.39.59:445][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.39.59:489][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.39.59:491][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.39.59:521][565]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.06.05-23.39.59:581][566]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.06.05-23.40.39:675][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.06.05-23.40.39:684][809]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/level1_Auto9BFF4D799439A356BD1223EA6F57F7A88.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Levels/level1_Auto9.umap'
+[2022.06.05-23.40.39:687][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.036
+[2022.06.05-23.40.39:687][809]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.06.05-23.40.39:687][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Enemies/EnemyExploder/Exploder] ([1] browsable assets)...
+[2022.06.05-23.40.39:687][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Enemies/EnemyExploder/Exploder]
+[2022.06.05-23.40.39:742][809]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Exploder_Auto9A2C9A5AB42008BEE359301A143681BE7.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Enemies/EnemyExploder/Exploder_Auto9.uasset'
+[2022.06.05-23.40.39:744][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2] ([1] browsable assets)...
+[2022.06.05-23.40.39:744][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2]
+[2022.06.05-23.40.39:822][809]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2_Auto9C46B686741921E290FE3CC968A4A5F48.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/PlayableCharacter2_Auto9.uasset'
+[2022.06.05-23.40.39:824][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball] ([1] browsable assets)...
+[2022.06.05-23.40.39:824][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball]
+[2022.06.05-23.40.39:836][809]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Fireball_Auto947F9DA8043F6ECBEE2FB619D30262FF1.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/FireBall/Fireball_Auto9.uasset'
+[2022.06.05-23.40.39:837][809]LogFileHelpers: Auto-saving content packages took 0.151
+[2022.06.05-23.45.17:984][278]BlueprintLog: New page: 编译Fireball
+[2022.06.05-23.45.18:059][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.06.05-23.45.19:462][353]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.06.05-23.45.19:470][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-23.45.19:470][353]PIE: New page: PIE会话：level1（2022年6月6日 下午6:45:19）
+[2022.06.05-23.45.19:470][353]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.45.19:473][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002681s)
+[2022.06.05-23.45.19:474][353]LogAIModule: Creating AISystem for world level1
+[2022.06.05-23.45.19:474][353]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2022.06.05-23.45.19:474][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.003937s)
+[2022.06.05-23.45.19:504][353]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.06.05-23.45.19:505][353]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.06.05-23.45.19:505][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-23.45.19:505][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-23.45.19:505][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-23.45.19:505][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-23.45.19:505][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-23.45.19:505][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-23.45.19:505][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-23.45.19:505][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-23.45.19:506][353]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-23.45.19:506][353]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-23.45.19:515][353]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-23.45.19:515][353]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-23.45.19:523][353]LogAudioMixer: Display: Using Audio Device 扬声器 (G560 Gaming Speaker)
+[2022.06.05-23.45.19:523][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-23.45.19:523][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-23.45.19:523][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-23.45.19:524][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-23.45.19:524][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-23.45.19:524][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-23.45.19:539][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-23.45.19:539][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-23.45.19:539][353]LogInit: FAudioDevice initialized.
+[2022.06.05-23.45.19:539][353]LogAudio: Display: Audio Device (ID: 19) registered with world 'level1'.
+[2022.06.05-23.45.19:564][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.45.19:565][353]LogLoad: Game class is 'GameModeBase'
+[2022.06.05-23.45.19:569][353]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.06.06-09.15.19
+[2022.06.05-23.45.19:569][353]LogWorld: Bringing up level for play took: 0.004433
+[2022.06.05-23.45.19:570][353]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.06.05-23.45.19:572][353]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.05-23.45.19:582][353]PIE: 登陆的服务器
+[2022.06.05-23.45.19:587][353]PIE: PIE总开始时间：0.12秒。
+[2022.06.05-23.45.31:617][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.45.31:617][974]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.45.31:618][974]LogSlate: Window 'GameProject1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-23.45.31:625][974]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-23.45.31:625][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.45.31:636][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-23.45.31:691][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.45.31:738][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-23.45.31:738][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.45.31:741][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.45.31:771][974]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2022.06.05-23.45.31:821][975]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.06.05-23.45.36:310][228]LogSlate: Window 'Fireball' being destroyed
+[2022.06.05-23.45.38:389][350]LogSlate: Window 'Fireball' being destroyed
+[2022.06.05-23.47.32:019][140]BlueprintLog: New page: 编译PlayableCharacter2
+[2022.06.05-23.47.32:101][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.06.05-23.47.39:775][586]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item.Strength_item
+[2022.06.05-23.47.49:829][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Health_potion/health_item.health_item
+[2022.06.05-23.48.06:390][151]BlueprintLog: New page: 编译Strength_item
+[2022.06.05-23.48.06:442][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.06.05-23.48.14:170][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameFiles/Player_chracter_2/Item/Mana_potion/Mana_item.Mana_item
+[2022.06.05-23.48.19:193][896]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-23.48.19:193][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.48.20:273][958]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.05-23.48.20:273][958]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-23.48.20:273][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.48.21:234][ 13]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.05-23.48.21:234][ 13]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-23.48.21:234][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.48.53:990][400]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.06.05-23.48.53:998][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-23.48.53:998][400]PIE: New page: PIE会话：level1（2022年6月6日 下午6:48:53）
+[2022.06.05-23.48.53:998][400]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.48.54:000][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002394s)
+[2022.06.05-23.48.54:001][400]LogAIModule: Creating AISystem for world level1
+[2022.06.05-23.48.54:001][400]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2022.06.05-23.48.54:001][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.003382s)
+[2022.06.05-23.48.54:034][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.06.05-23.48.54:035][400]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.06.05-23.48.54:035][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-23.48.54:035][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-23.48.54:035][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-23.48.54:035][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-23.48.54:035][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-23.48.54:035][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-23.48.54:035][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-23.48.54:035][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-23.48.54:036][400]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-23.48.54:036][400]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-23.48.54:042][400]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-23.48.54:042][400]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-23.48.54:049][400]LogAudioMixer: Display: Using Audio Device 扬声器 (G560 Gaming Speaker)
+[2022.06.05-23.48.54:049][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-23.48.54:049][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-23.48.54:049][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-23.48.54:050][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-23.48.54:050][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-23.48.54:050][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-23.48.54:063][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-23.48.54:063][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-23.48.54:063][400]LogInit: FAudioDevice initialized.
+[2022.06.05-23.48.54:063][400]LogAudio: Display: Audio Device (ID: 20) registered with world 'level1'.
+[2022.06.05-23.48.54:084][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.48.54:084][400]LogLoad: Game class is 'GameModeBase'
+[2022.06.05-23.48.54:088][400]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.06.06-09.18.54
+[2022.06.05-23.48.54:088][400]LogWorld: Bringing up level for play took: 0.003980
+[2022.06.05-23.48.54:089][400]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.06.05-23.48.54:091][400]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.05-23.48.54:100][400]PIE: 登陆的服务器
+[2022.06.05-23.48.54:104][400]PIE: PIE总开始时间：0.108秒。
+[2022.06.05-23.50.21:977][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.50.21:977][501]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.50.21:978][501]LogSlate: Window 'GameProject1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-23.50.21:985][501]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-23.50.21:986][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.50.22:003][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-23.50.22:050][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.50.22:080][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-23.50.22:081][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.50.22:082][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.50.22:103][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.05-23.50.22:150][502]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.06.05-23.50.50:709][182]BlueprintLog: New page: 编译PlayableCharacter2
+[2022.06.05-23.50.50:788][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.06.05-23.50.51:365][209]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.06.05-23.50.51:371][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.05-23.50.51:371][209]PIE: New page: PIE会话：level1（2022年6月6日 下午6:50:51）
+[2022.06.05-23.50.51:371][209]LogPlayLevel: Creating play world package: /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.50.51:373][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002251s)
+[2022.06.05-23.50.51:374][209]LogAIModule: Creating AISystem for world level1
+[2022.06.05-23.50.51:374][209]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2022.06.05-23.50.51:374][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameFiles/Levels/level1.level1 to /Game/GameFiles/Levels/UEDPIE_0_level1.level1 (0.003180s)
+[2022.06.05-23.50.51:401][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.05-23.50.51:401][209]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.06.05-23.50.51:401][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.05-23.50.51:401][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.05-23.50.51:401][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.05-23.50.51:401][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.05-23.50.51:401][209]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.05-23.50.51:401][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.05-23.50.51:401][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.05-23.50.51:401][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.05-23.50.51:402][209]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.05-23.50.51:402][209]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.05-23.50.51:408][209]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.05-23.50.51:408][209]LogAudioMixer: Display: 1: FrontRight
+[2022.06.05-23.50.51:414][209]LogAudioMixer: Display: Using Audio Device 扬声器 (G560 Gaming Speaker)
+[2022.06.05-23.50.51:415][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.05-23.50.51:415][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.05-23.50.51:415][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.05-23.50.51:415][209]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.05-23.50.51:415][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.05-23.50.51:415][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.05-23.50.51:429][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.05-23.50.51:429][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.05-23.50.51:429][209]LogInit: FAudioDevice initialized.
+[2022.06.05-23.50.51:429][209]LogAudio: Display: Audio Device (ID: 21) registered with world 'level1'.
+[2022.06.05-23.50.51:453][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.50.51:453][209]LogLoad: Game class is 'GameModeBase'
+[2022.06.05-23.50.51:458][209]LogWorld: Bringing World /Game/GameFiles/Levels/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.06.06-09.20.51
+[2022.06.05-23.50.51:459][209]LogWorld: Bringing up level for play took: 0.004840
+[2022.06.05-23.50.51:459][209]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.06.05-23.50.51:461][209]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.05-23.50.51:470][209]PIE: 登陆的服务器
+[2022.06.05-23.50.51:474][209]PIE: PIE总开始时间：0.105秒。
+[2022.06.05-23.51.23:552][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.05-23.51.23:553][128]LogWorld: BeginTearingDown for /Game/GameFiles/Levels/UEDPIE_0_level1
+[2022.06.05-23.51.23:553][128]LogSlate: Window 'GameProject1预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.05-23.51.23:560][128]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.05-23.51.23:560][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.51.23:572][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.05-23.51.23:615][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.05-23.51.23:646][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.05-23.51.23:646][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.51.23:649][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.05-23.51.23:669][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.06.05-23.51.23:705][129]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.06.05-23.51.45:489][425]BlueprintLog: New page: 编译PlayableCharacter2
+[2022.06.05-23.51.45:562][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.06.05-23.52.52:421][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.06.05-23.52.52:429][620]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/level1_Auto0CB85C7F842A9BABE0F1B89980D52E72D.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Levels/level1_Auto0.umap'
+[2022.06.05-23.52.52:431][620]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameFiles/Levels/level1' took 0.036
+[2022.06.05-23.52.52:431][620]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.06.05-23.52.52:431][620]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Enemies/EnemyExploder/Exploder] ([1] browsable assets)...
+[2022.06.05-23.52.52:431][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Enemies/EnemyExploder/Exploder]
+[2022.06.05-23.52.52:484][620]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Exploder_Auto002BB25E14914F434FAA23CA17EFC2631.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Enemies/EnemyExploder/Exploder_Auto0.uasset'
+[2022.06.05-23.52.52:486][620]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2] ([1] browsable assets)...
+[2022.06.05-23.52.52:486][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/PlayableCharacter2]
+[2022.06.05-23.52.52:560][620]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/PlayableCharacter2_Auto08B205D704A1DB0B9482C68A75B427518.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/PlayableCharacter2_Auto0.uasset'
+[2022.06.05-23.52.52:563][620]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/lock_keysystem/Lock] ([1] browsable assets)...
+[2022.06.05-23.52.52:563][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/lock_keysystem/Lock]
+[2022.06.05-23.52.52:569][620]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Lock_Auto0D4194A584FE96FA663C65289578FA0F7.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/lock_keysystem/Lock_Auto0.uasset'
+[2022.06.05-23.52.52:571][620]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item] ([1] browsable assets)...
+[2022.06.05-23.52.52:571][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item]
+[2022.06.05-23.52.52:579][620]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Strength_item_Auto06EC52FCB407840ECCE6C3BAB7B3275EA.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/Item/Strength_potion/Strength_item_Auto0.uasset'
+[2022.06.05-23.52.52:581][620]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball] ([1] browsable assets)...
+[2022.06.05-23.52.52:581][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameFiles/Player_chracter_2/FireBall/Fireball]
+[2022.06.05-23.52.52:594][620]LogSavePackage: Moving '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Fireball_Auto0482A026E463978E76A344F9ABB8FFA54.tmp' to '../../../../../../Users/Razer 17/Documents/GitHub/Games-Project-1/GameProject1/Saved/Autosaves/Game/GameFiles/Player_chracter_2/FireBall/Fireball_Auto0.uasset'
+[2022.06.05-23.52.52:596][620]LogFileHelpers: Auto-saving content packages took 0.165
